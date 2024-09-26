@@ -6,25 +6,26 @@ import sys
 import io
 
 FONT = ("open sans", 14)
+ENTRY_FONT = ("calibri", 12)
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-
-dataframe = pandas.read_csv("Passiflora_Cultivars_0223.csv")
+dataframe = pandas.read_csv("Passiflora_Cultivars_0924.csv")
+print(len(dataframe))
 
 
 def listbox_insert(row):
 
     list_box.insert(tk.END, f"'{row['Cultivar Name'].title()}'     "
-                            f"{row['Female Parent'].title()}   x  "
+                            f"{row['Female Parent'].title()}   x   "
                             f"{row['Male Parent'].title()}      "
                             f"{row['Breeder'].title()}      "
                             f"{row['Year']}")
 
 
 def reset():
+    name_entry.delete(0, tk.END)
     male_entry.delete(0, tk.END)
-    female_entry.delete(0, tk.END)
     female_entry.delete(0, tk.END)
     breeder_entry.delete(0, tk.END)
     year_entry.delete(0, tk.END)
@@ -93,9 +94,9 @@ def search():
 
 
 main_window = tk.Tk()
-main_window.minsize(400, 800)
+main_window.minsize(600, 800)
 main_window.config(bg="white")
-main_window.title("Passi Datenbank 09/2023")
+main_window.title("Passiflora Datenbank 09/2024")
 
 name_str = tk.StringVar()
 
@@ -118,31 +119,32 @@ year_label.grid(row=2, column=4, padx=5, pady=5)
 
 # Entries
 
-name_entry = tk.Entry()
+name_entry = tk.Entry(font=ENTRY_FONT)
 name_entry.grid(row=3, column=0, padx=5, pady=20)
 
-female_entry = tk.Entry()
+female_entry = tk.Entry(font=ENTRY_FONT)
 female_entry.grid(row=3, column=1, padx=5, pady=20)
 
-male_entry = tk.Entry()
+male_entry = tk.Entry(font=ENTRY_FONT)
 male_entry.grid(row=3, column=2, padx=5, pady=20)
 
-breeder_entry = tk.Entry()
+breeder_entry = tk.Entry(font=ENTRY_FONT)
 breeder_entry.grid(row=3, column=3, padx=5, pady=20)
 
-year_entry = tk.Entry()
+year_entry = tk.Entry(font=ENTRY_FONT)
 year_entry.grid(row=3, column=4, padx=5, pady=20)
 
 # Buttons
 
-search_button = tk.Button(text="Search", command=search, font=FONT)
+search_button = tk.Button(text="Search", command=search, font=FONT, bg="#BACD92")
 search_button.grid(row=4, column=1)
 
-reset_button = tk.Button(text="Reset", command=reset, font=FONT)
+reset_button = tk.Button(text="Reset", command=reset, font=FONT, bg="#E1ACAC")
 reset_button.grid(row=4, column=3)
 
-list_box = tk.Listbox(main_window, width=60, height=30, font=("calibri", 16))
+list_box = tk.Listbox(main_window, width=100, height=30, font=("calibri", 12))
 list_box.grid(row=5, column=0, pady=20, padx=20, columnspan=5)
-list_box.insert(tk.END, "Cultivar Name         Female Parent         Male Parent         Breeder         Year\n")
+list_box.insert(tk.END, "                                 Cultivar Name         Female Parent            "
+                        "Male Parent            Breeder            Year\n")
 
 main_window.mainloop()
