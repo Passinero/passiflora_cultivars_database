@@ -14,6 +14,12 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 dataframe = pandas.read_csv("Passiflora_Cultivars_0924.csv")
 
+breeder_str_list = [str(string) for string in dataframe["Breeder"]]
+name_str_list = [str(string) for string in dataframe["Cultivar Name"]]
+female_str_list = [str(string) for string in dataframe["Female Parent"]]
+male_str_list = [str(string) for string in dataframe["Male Parent"]]
+
+
 
 def listbox_insert(row):
 
@@ -51,18 +57,35 @@ def search():
                   }
 
     if len(cat_list) == 1:
-        category = value_dict[cat_list[0]]
-        new_df = dataframe[dataframe[category] == cat_list[0]]
 
-        if new_df.empty:
-            list_box.insert(tk.END, "")
-            list_box.insert(tk.END, "No data found")
-            return
+        if breeder:
+            for breed in breeder_str_list:
+                if cat_list[0] in breed:
+                    found = True
+                    new_df = dataframe[dataframe["Breeder"] == breed]
+
+                    if new_df.empty:
+                        list_box.insert(tk.END, "No data found")
+                        return
+                    else:
+                        list_box.insert(tk.END, "")
+                        for index, row in new_df.iterrows():
+                            listbox_insert(row)
+
+                        if found:
+                            return
+        else:
+            category = value_dict[cat_list[0]]
+            new_df = dataframe[dataframe[category] == cat_list[0]]
+            if new_df.empty:
+                list_box.insert(tk.END, "")
+                list_box.insert(tk.END, "No data found")
+                return
+            else:
+                for index, row in new_df.iterrows():
+                    listbox_insert(row)
 
         list_box.insert(tk.END, "")
-
-        for index, row in new_df.iterrows():
-            listbox_insert(row)
 
     elif len(cat_list) == 2:
         cat_1 = value_dict[cat_list[0]]
@@ -153,14 +176,14 @@ year_entry.grid(row=3, column=4, padx=10, pady=15)
 # Buttons
 
 search_button = tk.Button(text="Search", command=search, font=FONT, bg="#BACD92")
-search_button.grid(row=4, column=1,pady=8)
+search_button.grid(row=4, column=1, pady=8)
 
 reset_button = tk.Button(text="Reset", command=reset, font=FONT, bg="#E1ACAC")
 reset_button.grid(row=4, column=3, pady=8)
 
 list_box = tk.Listbox(main_window, width=92, height=30, font=("open sans", 13), bg="#FFFBE6")
 list_box.grid(row=5, column=0, pady=20, padx=20, columnspan=5)
-list_box.insert(tk.END, "                         Cultivar Name         Female Parent          "
+list_box.insert(tk.END, "Cultivar Name         Female Parent          "
                         "Male Parent          Breeder         Year\n")
 
 main_window.mainloop()
