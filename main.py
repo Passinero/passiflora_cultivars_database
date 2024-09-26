@@ -11,7 +11,6 @@ ENTRY_FONT = ("calibri", 12)
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 dataframe = pandas.read_csv("Passiflora_Cultivars_0924.csv")
-print(len(dataframe))
 
 
 def listbox_insert(row):
@@ -25,8 +24,8 @@ def listbox_insert(row):
 
 def reset():
     name_entry.delete(0, tk.END)
-    male_entry.delete(0, tk.END)
     female_entry.delete(0, tk.END)
+    male_entry.delete(0, tk.END)
     breeder_entry.delete(0, tk.END)
     year_entry.delete(0, tk.END)
 
@@ -54,6 +53,8 @@ def search():
         new_df = dataframe[dataframe[category] == cat_list[0]]
 
         if new_df.empty:
+            list_box.insert(tk.END, "")
+            list_box.insert(tk.END, "No data found")
             return
 
         list_box.insert(tk.END, "")
@@ -68,6 +69,8 @@ def search():
         double_df = dataframe[(dataframe[cat_1] == cat_list[0]) &
                               (dataframe[cat_2] == cat_list[1])]
         if double_df.empty:
+            list_box.insert(tk.END, "")
+            list_box.insert(tk.END, "No data found")
             return
 
         list_box.insert(tk.END, "")
@@ -85,6 +88,8 @@ def search():
                               (dataframe[cat_3] == cat_list[2])]
 
         if triple_df.empty:
+            list_box.insert(tk.END, "")
+            list_box.insert(tk.END, "No data found")
             return
 
         list_box.insert(tk.END, "")
@@ -142,7 +147,7 @@ search_button.grid(row=4, column=1)
 reset_button = tk.Button(text="Reset", command=reset, font=FONT, bg="#E1ACAC")
 reset_button.grid(row=4, column=3)
 
-list_box = tk.Listbox(main_window, width=100, height=30, font=("calibri", 12))
+list_box = tk.Listbox(main_window, width=100, height=30, font=("calibri", 12), bg="#FFFBE6")
 list_box.grid(row=5, column=0, pady=20, padx=20, columnspan=5)
 list_box.insert(tk.END, "                                 Cultivar Name         Female Parent            "
                         "Male Parent            Breeder            Year\n")
