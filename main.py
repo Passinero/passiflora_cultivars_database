@@ -5,8 +5,10 @@ import tkinter as tk
 import sys
 import io
 
+
 FONT = ("open sans", 14)
 ENTRY_FONT = ("calibri", 12)
+HEADER_FONT = ("open sans", 18)
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
@@ -16,7 +18,7 @@ dataframe = pandas.read_csv("Passiflora_Cultivars_0924.csv")
 def listbox_insert(row):
 
     list_box.insert(tk.END, f"'{row['Cultivar Name'].title()}'     "
-                            f"{row['Female Parent'].title()}   x   "
+                            f"{row['Female Parent'].title()}   ×   "
                             f"{row['Male Parent'].title()}      "
                             f"{row['Breeder'].title()}      "
                             f"{row['Year']}")
@@ -107,8 +109,17 @@ name_str = tk.StringVar()
 
 # Labels
 
+header_label = tk.Label(text=f"Passiflora Cultivars Database", font=HEADER_FONT, bg="white")
+header_label.grid(row=0, column=1, columnspan=3, pady=25)
+
+how_many_label = tk.Label(text=f"{len(dataframe)} Entries", font=("open sans", 13), bg="white")
+how_many_label.grid(row=0, column=4)
+
+date_label = tk.Label(text="09/2024", font=("open sans", 13), bg="white")
+date_label.grid(row=0, column=0)
+
 name_label = tk.Label(text="Cultivar Name", bg="white", font=FONT)
-name_label.grid(row=2, column=0, padx=5, pady=5)
+name_label.grid(row=2, column=0, padx=5)
 
 female_label = tk.Label(text="Female Parent", bg="white", font=FONT)
 female_label.grid(row=2, column=1, padx=5, pady=5)
@@ -125,31 +136,31 @@ year_label.grid(row=2, column=4, padx=5, pady=5)
 # Entries
 
 name_entry = tk.Entry(font=ENTRY_FONT)
-name_entry.grid(row=3, column=0, padx=5, pady=20)
+name_entry.grid(row=3, column=0, padx=10, pady=15)
 
 female_entry = tk.Entry(font=ENTRY_FONT)
-female_entry.grid(row=3, column=1, padx=5, pady=20)
+female_entry.grid(row=3, column=1, padx=5, pady=15)
 
 male_entry = tk.Entry(font=ENTRY_FONT)
-male_entry.grid(row=3, column=2, padx=5, pady=20)
+male_entry.grid(row=3, column=2, padx=5, pady=15)
 
 breeder_entry = tk.Entry(font=ENTRY_FONT)
-breeder_entry.grid(row=3, column=3, padx=5, pady=20)
+breeder_entry.grid(row=3, column=3, padx=5, pady=15)
 
 year_entry = tk.Entry(font=ENTRY_FONT)
-year_entry.grid(row=3, column=4, padx=5, pady=20)
+year_entry.grid(row=3, column=4, padx=10, pady=15)
 
 # Buttons
 
 search_button = tk.Button(text="Search", command=search, font=FONT, bg="#BACD92")
-search_button.grid(row=4, column=1)
+search_button.grid(row=4, column=1,pady=8)
 
 reset_button = tk.Button(text="Reset", command=reset, font=FONT, bg="#E1ACAC")
-reset_button.grid(row=4, column=3)
+reset_button.grid(row=4, column=3, pady=8)
 
-list_box = tk.Listbox(main_window, width=100, height=30, font=("calibri", 12), bg="#FFFBE6")
+list_box = tk.Listbox(main_window, width=92, height=30, font=("open sans", 13), bg="#FFFBE6")
 list_box.grid(row=5, column=0, pady=20, padx=20, columnspan=5)
-list_box.insert(tk.END, "                                 Cultivar Name         Female Parent            "
-                        "Male Parent            Breeder            Year\n")
+list_box.insert(tk.END, "                         Cultivar Name         Female Parent          "
+                        "Male Parent          Breeder         Year\n")
 
 main_window.mainloop()
