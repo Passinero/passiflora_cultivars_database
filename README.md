@@ -9,5 +9,5 @@ the year entry takes four digit years (2024)
 when a parent is an unnamed hybrid search for: (amethyst  × caerulea)
 by now the multiplication sign is needed
 
-don't use any "''" in search
+don't use any '' in search
 
