@@ -178,7 +178,7 @@
         "Cultivar Name": "alzire",
         "Female Parent": "amethyst",
         "Male Parent": "amethystina",
-        "Breeder": "axel frank / franz duelli",
+        "Breeder": "axel frank / franz dülli",
         "Year": "2009"
     },
     {
@@ -382,7 +382,7 @@
         "Female Parent": "aurora",
         "Male Parent": "sublanceolata",
         "Breeder": "maurizio vecchia",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "aracne",
@@ -499,9 +499,9 @@
     {
         "Cultivar Name": "avalanche",
         "Female Parent": "selection of caerulea constance eliott",
-        "Male Parent": "cor laurens",
-        "Breeder": "2002",
-        "Year": null
+        "Male Parent": "0",
+        "Breeder": "cor laurens",
+        "Year": "2002"
     },
     {
         "Cultivar Name": "azul celeste",
@@ -590,7 +590,7 @@
     {
         "Cultivar Name": "basing park hybrid",
         "Female Parent": "george nicholson",
-        "Male Parent": "19?1",
+        "Male Parent": "1901",
         "Breeder": "?",
         "Year": null
     },
@@ -627,7 +627,7 @@
         "Female Parent": "gardneri",
         "Male Parent": "gibertii",
         "Breeder": "margarete m. souza",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "berkeley",
@@ -717,7 +717,7 @@
         "Cultivar Name": "blaupunkt",
         "Female Parent": "blaumilch",
         "Male Parent": "amethystina",
-        "Breeder": "axel frank / franz duelli",
+        "Breeder": "axel frank / franz dülli",
         "Year": null
     },
     {
@@ -773,7 +773,7 @@
         "Cultivar Name": "blue circle",
         "Female Parent": "violacea",
         "Male Parent": "loefgrenii corupa",
-        "Breeder": "marian oldenbuerger / artur mueller",
+        "Breeder": "marian oldenbuerger / artur müller",
         "Year": "2011"
     },
     {
@@ -1075,7 +1075,7 @@
         "Female Parent": "caerulea",
         "Male Parent": "miersii",
         "Breeder": "salvatore la delfa",
-        "Year": "202?"
+        "Year": "2020"
     },
     {
         "Cultivar Name": "california",
@@ -1096,7 +1096,7 @@
         "Female Parent": "colvillii",
         "Male Parent": "kermesina",
         "Breeder": "maurizio vecchia",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "camelot",
@@ -1152,7 +1152,7 @@
         "Female Parent": "kermesina",
         "Male Parent": "tucumanensis",
         "Breeder": "maurizio vecchia",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "capsang",
@@ -1446,7 +1446,7 @@
         "Female Parent": "celine",
         "Male Parent": "(violet selection x caerulea constance eliott)",
         "Breeder": "nadine van rüschen",
-        "Year": "202?"
+        "Year": "2020"
     },
     {
         "Cultivar Name": "colombina",
@@ -1677,7 +1677,7 @@
         "Female Parent": "edmundoi",
         "Male Parent": "kermesina",
         "Breeder": "maurizio vecchia",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "dakota ransom",
@@ -1985,7 +1985,7 @@
         "Female Parent": "edmundoi",
         "Male Parent": "la morellina",
         "Breeder": "nadine van rüschen",
-        "Year": "202?"
+        "Year": "2020"
     },
     {
         "Cultivar Name": "el oro",
@@ -2440,7 +2440,7 @@
         "Female Parent": "princeps",
         "Male Parent": "cincinnata",
         "Breeder": "rick mccain",
-        "Year": "199?"
+        "Year": "1990"
     },
     {
         "Cultivar Name": "fredrick",
@@ -2489,7 +2489,7 @@
         "Female Parent": "gardneri",
         "Male Parent": "gibertii",
         "Breeder": "margarete m. souza",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "gaia",
@@ -2510,7 +2510,7 @@
         "Female Parent": "princeps",
         "Male Parent": "cincinnata",
         "Breeder": "rick mccain",
-        "Year": "199?"
+        "Year": "1990"
     },
     {
         "Cultivar Name": "galea",
@@ -2657,7 +2657,7 @@
         "Female Parent": "trisecta",
         "Male Parent": "manicata",
         "Breeder": "engelo ciacciulli",
-        "Year": "202?"
+        "Year": "2020"
     },
     {
         "Cultivar Name": "gontieri",
@@ -2824,7 +2824,7 @@
         "Cultivar Name": "holly",
         "Female Parent": "incarnata lorayne",
         "Male Parent": "kermesina",
-        "Breeder": "franz duelli / axel frank",
+        "Breeder": "franz dülli / axel frank",
         "Year": "2009"
     },
     {
@@ -3119,7 +3119,7 @@
         "Female Parent": "vitifolia",
         "Male Parent": "coccinea",
         "Breeder": "sebastien sabureau",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "jennifer grace",
@@ -3980,7 +3980,7 @@
         "Female Parent": "manta",
         "Male Parent": "megacoriacea",
         "Breeder": "rosali ziller",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "mansai 1",
@@ -4120,7 +4120,7 @@
         "Female Parent": "incarnata",
         "Male Parent": "kermesina",
         "Breeder": "maurizio vecchia",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "marlie",
@@ -4246,7 +4246,7 @@
         "Female Parent": "incarnata",
         "Male Parent": "actinia",
         "Breeder": "rick mccain",
-        "Year": "199?"
+        "Year": "1990"
     },
     {
         "Cultivar Name": "medium blue",
@@ -4448,7 +4448,7 @@
         "Cultivar Name": "murac",
         "Female Parent": "mucronata",
         "Male Parent": "princeps",
-        "Breeder": "franz duelli / axel frank",
+        "Breeder": "franz dülli / axel frank",
         "Year": "2009"
     },
     {
@@ -4596,7 +4596,7 @@
         "Female Parent": "amethyst",
         "Male Parent": "amethystina",
         "Breeder": "rick mccain",
-        "Year": "199?"
+        "Year": "1990"
     },
     {
         "Cultivar Name": "noels special",
@@ -5044,7 +5044,7 @@
         "Female Parent": "trisecta",
         "Male Parent": "mixta",
         "Breeder": "rick mccain",
-        "Year": "199?"
+        "Year": "1990"
     },
     {
         "Cultivar Name": "pink seduction",
@@ -5107,7 +5107,7 @@
         "Female Parent": "?",
         "Male Parent": "?",
         "Breeder": "l.a. king",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "pole star",
@@ -5401,7 +5401,7 @@
         "Female Parent": "princeps",
         "Male Parent": "quadriglandulosa",
         "Breeder": "carlos magdalena",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "red giant",
@@ -5653,7 +5653,7 @@
         "Female Parent": "subpeltata",
         "Male Parent": "buonapartea",
         "Breeder": "john wilson",
-        "Year": "19??"
+        "Year": "190?"
     },
     {
         "Cultivar Name": "sammie b",
@@ -6013,10 +6013,10 @@
         "Year": "2004"
     },
     {
-        "Cultivar Name": "sonja duelli",
+        "Cultivar Name": "sonja dülli",
         "Female Parent": "vitifolia",
         "Male Parent": "incarnata alba",
-        "Breeder": "franz duelli",
+        "Breeder": "franz dülli",
         "Year": "2009"
     },
     {
@@ -6269,7 +6269,7 @@
         "Female Parent": "ornithoura",
         "Male Parent": "boenderi",
         "Breeder": "jorge ochoa",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "summer blush",
@@ -6304,7 +6304,7 @@
         "Female Parent": "sunburst",
         "Male Parent": "cuprea",
         "Breeder": "anke hackert",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "superba",
@@ -6584,7 +6584,7 @@
         "Female Parent": "temptation",
         "Male Parent": "byron beauty",
         "Breeder": "vicki townsend",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "uli",
@@ -6626,7 +6626,7 @@
         "Female Parent": "temptation",
         "Male Parent": "?",
         "Breeder": "sebastien sabureau",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "valerie bishop",
@@ -6731,7 +6731,7 @@
         "Female Parent": "mooreana",
         "Male Parent": "caerulea pierre pomie",
         "Breeder": "nadine van rüschen",
-        "Year": "202?"
+        "Year": "2020"
     },
     {
         "Cultivar Name": "viola",
@@ -7004,7 +7004,7 @@
         "Female Parent": "odette",
         "Male Parent": "kermesina",
         "Breeder": "maurizio vecchia",
-        "Year": "201?"
+        "Year": "2010"
     },
     {
         "Cultivar Name": "zhuangyuan red",
