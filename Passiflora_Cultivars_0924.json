@@ -1708,9 +1708,9 @@
         "Year": "2007"
     },
     {
-        "Cultivar Name": "damsels delight",
-        "Female Parent": "protected",
-        "Male Parent": "syn.: silly cow",
+        "Cultivar Name": "damsel's delight",
+        "Female Parent": "syn.: silly cow",
+        "Male Parent": "?",
         "Breeder": "myles irvine",
         "Year": null
     },
@@ -5803,6 +5803,20 @@
         "Year": "2022"
     },
     {
+        "Cultivar Name": "r1-2",
+        "Female Parent": "incarnata maryland",
+        "Male Parent": "jutta",
+        "Breeder": "igor lyannoy",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "r2-5",
+        "Female Parent": "((incense x byron beauty) x incarnata alba)",
+        "Male Parent": "incarnata",
+        "Breeder": "hal love",
+        "Year": null
+    },
+    {
         "Cultivar Name": "radka",
         "Female Parent": "maliformis",
         "Male Parent": "?",
@@ -5829,6 +5843,13 @@
         "Male Parent": "lilac sunset",
         "Breeder": "sebastien sabureau",
         "Year": "2014"
+    },
+    {
+        "Cultivar Name": "raspberries and cream",
+        "Female Parent": "subpeltata",
+        "Male Parent": "gritensis",
+        "Breeder": "roland fischer / mark cooper",
+        "Year": null
     },
     {
         "Cultivar Name": "raspberry strudel",
@@ -5971,6 +5992,13 @@
         "Year": "1875"
     },
     {
+        "Cultivar Name": "robin",
+        "Female Parent": "?",
+        "Male Parent": "?",
+        "Breeder": "?",
+        "Year": null
+    },
+    {
         "Cultivar Name": "rochelle",
         "Female Parent": "platyloba",
         "Male Parent": "incarnata",
@@ -5996,6 +6024,13 @@
         "Female Parent": "?",
         "Male Parent": "?",
         "Breeder": "?",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "rosachiara",
+        "Female Parent": "angelo blu",
+        "Male Parent": "phoenicea",
+        "Breeder": "maurizio vecchia",
         "Year": null
     },
     {
@@ -6083,10 +6118,24 @@
         "Year": "2007"
     },
     {
+        "Cultivar Name": "rubi",
+        "Female Parent": "manicata",
+        "Male Parent": "mollissima",
+        "Breeder": "jana heym",
+        "Year": null
+    },
+    {
         "Cultivar Name": "ruby glow",
         "Female Parent": "selection of phoenicea",
         "Male Parent": "?",
         "Breeder": "patrick worley",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "runt",
+        "Female Parent": "incarnata maryland",
+        "Male Parent": "jutta",
+        "Breeder": "hal love",
         "Year": null
     },
     {
@@ -6377,6 +6426,13 @@
         "Year": null
     },
     {
+        "Cultivar Name": "silly cow",
+        "Female Parent": "syn.: damsel's delight",
+        "Male Parent": "?",
+        "Breeder": "myles irvine",
+        "Year": null
+    },
+    {
         "Cultivar Name": "silver sabre",
         "Female Parent": "selection of lutea",
         "Male Parent": "?",
@@ -6412,6 +6468,13 @@
         "Year": "2000"
     },
     {
+        "Cultivar Name": "singularity",
+        "Female Parent": "incarnata",
+        "Male Parent": "mooreana",
+        "Breeder": "eric wortman",
+        "Year": null
+    },
+    {
         "Cultivar Name": "sirus",
         "Female Parent": "selection of amethystina",
         "Male Parent": "?",
@@ -6437,6 +6500,13 @@
         "Female Parent": "?",
         "Male Parent": "?",
         "Breeder": "?",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "skywalker",
+        "Female Parent": "kermesina",
+        "Male Parent": "loefgrenii corupa",
+        "Breeder": "bettina ulmer",
         "Year": null
     },
     {
@@ -6494,6 +6564,13 @@
         "Male Parent": "incarnata",
         "Breeder": "alain tan / sebastien sabureau",
         "Year": "2011"
+    },
+    {
+        "Cultivar Name": "solferino",
+        "Female Parent": "exoniensis",
+        "Male Parent": "parritae",
+        "Breeder": "carlos ibarra",
+        "Year": null
     },
     {
         "Cultivar Name": "sonia",
