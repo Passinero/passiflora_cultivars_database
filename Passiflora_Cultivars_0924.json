@@ -5455,9 +5455,9 @@
     {
         "Cultivar Name": "regnellii",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "masters",
-        "Breeder": "1872",
-        "Year": null
+        "Male Parent": "?",
+        "Breeder": "masters",
+        "Year": "1872"
     },
     {
         "Cultivar Name": "rinconata",
@@ -5756,9 +5756,9 @@
     {
         "Cultivar Name": "scarlet flame",
         "Female Parent": "selection of vitifolia",
-        "Male Parent": "kartuz greenhouses",
-        "Breeder": "1984",
-        "Year": null
+        "Male Parent": "0",
+        "Breeder": "kartuz greenhouses",
+        "Year": "1984"
     },
     {
         "Cultivar Name": "schalker siegestaumel",
@@ -6316,9 +6316,9 @@
     {
         "Cultivar Name": "supernova",
         "Female Parent": "selection of incarnata",
-        "Male Parent": "ethan nielsen",
-        "Breeder": "2015",
-        "Year": null
+        "Male Parent": "0",
+        "Breeder": "ethan nielsen",
+        "Year": "2015"
     },
     {
         "Cultivar Name": "supreme",
@@ -6645,16 +6645,16 @@
     {
         "Cultivar Name": "vanilla",
         "Female Parent": "selection of antioquiensis",
-        "Male Parent": "silva tunkl",
-        "Breeder": "1989",
-        "Year": null
+        "Male Parent": "0",
+        "Breeder": "silva tunkl",
+        "Year": "1989"
     },
     {
         "Cultivar Name": "vanilla cream",
         "Female Parent": "selection of capsularis",
-        "Male Parent": "patrick worley",
-        "Breeder": "1984",
-        "Year": null
+        "Male Parent": "0",
+        "Breeder": "patrick worley",
+        "Year": "1984"
     },
     {
         "Cultivar Name": "varanzof",
@@ -6668,7 +6668,7 @@
         "Female Parent": "violacea",
         "Male Parent": "caerulea",
         "Breeder": "angelika schwarzwald",
-        "Year": ""
+        "Year": null
     },
     {
         "Cultivar Name": "venus",
@@ -6744,8 +6744,8 @@
         "Cultivar Name": "violacea",
         "Female Parent": "princeps / caerulea",
         "Male Parent": "caerulea / princeps",
-        "Breeder": "1824",
-        "Year": null
+        "Breeder": "?",
+        "Year": "1824"
     },
     {
         "Cultivar Name": "violet selection",
@@ -6812,8 +6812,8 @@
     },
     {
         "Cultivar Name": "warmlands",
-        "Female Parent": "invalid",
-        "Male Parent": "variety of quadrangularis or macrocarpa",
+        "Female Parent": "variety of quadrangularis",
+        "Male Parent": "?",
         "Breeder": "?",
         "Year": null
     },
