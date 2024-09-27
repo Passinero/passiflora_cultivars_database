@@ -20,12 +20,11 @@ female_str_list = [str(string) for string in dataframe["Female Parent"]]
 male_str_list = [str(string) for string in dataframe["Male Parent"]]
 
 
-
 def listbox_insert(row):
 
     list_box.insert(tk.END, f"'{row['Cultivar Name'].title()}'     "
-                            f"{row['Female Parent'].title()}   ×   "
-                            f"{row['Male Parent'].title()}      "
+                            f"{row['Female Parent']}   ×   "
+                            f"{row['Male Parent']}      "
                             f"{row['Breeder'].title()}      "
                             f"{row['Year']}")
 
