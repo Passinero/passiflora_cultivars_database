@@ -41,22 +41,23 @@ def reset():
 
 
 def search():
-    name = name_entry.get()
-    female = female_entry.get()
-    male = male_entry.get()
-    breeder = breeder_entry.get()
+    name = name_entry.get().lower()
+    female = female_entry.get().lower()
+    male = male_entry.get().lower()
+    breeder = breeder_entry.get().lower()
     year = year_entry.get()
 
-    if len(year) == 4:
-        for el in year:
-            if not el.isnumeric():
-                list_box.insert(tk.END, "")
-                list_box.insert(tk.END, "Invalid year")
-                return
-    else:
-        list_box.insert(tk.END, "")
-        list_box.insert(tk.END, "Invalid year")
-        return
+    if year:
+        if len(year) == 4:
+            for el in year:
+                if not el.isnumeric():
+                    list_box.insert(tk.END, "")
+                    list_box.insert(tk.END, "Invalid year")
+                    return
+        else:
+            list_box.insert(tk.END, "")
+            list_box.insert(tk.END, "Invalid year")
+            return
 
     cat_list = [cat for cat in [name, female, male, breeder, year] if cat]
 
