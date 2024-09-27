@@ -47,6 +47,17 @@ def search():
     breeder = breeder_entry.get()
     year = year_entry.get()
 
+    if len(year) == 4:
+        for el in year:
+            if not el.isnumeric():
+                list_box.insert(tk.END, "")
+                list_box.insert(tk.END, "Invalid year")
+                return
+    else:
+        list_box.insert(tk.END, "")
+        list_box.insert(tk.END, "Invalid year")
+        return
+
     cat_list = [cat for cat in [name, female, male, breeder, year] if cat]
 
     value_dict = {name: "Cultivar Name",
