@@ -213,7 +213,7 @@
         "Cultivar Name": "ametcaer",
         "Female Parent": "amethystina",
         "Male Parent": "caerulea",
-        "Breeder": "0",
+        "Breeder": "?",
         "Year": "2003"
     },
     {
@@ -428,10 +428,10 @@
     },
     {
         "Cultivar Name": "argentina",
-        "Female Parent": "?",
+        "Female Parent": "selection of P. caerulea",
         "Male Parent": "?",
         "Breeder": "?",
-        "Year": "selection of caerulea"
+        "Year": null
     },
     {
         "Cultivar Name": "ariane",
@@ -444,15 +444,15 @@
         "Cultivar Name": "aruska",
         "Female Parent": "loefgrenii 'Corupa'",
         "Male Parent": "simpin",
-        "Breeder": "2005",
-        "Year": null
+        "Breeder": "?",
+        "Year": "2005"
     },
     {
         "Cultivar Name": "asmara",
         "Female Parent": "incarnata",
         "Male Parent": "loefgrenii 'Corupa'",
-        "Breeder": "2005",
-        "Year": null
+        "Breeder": "?",
+        "Year": "2005"
     },
     {
         "Cultivar Name": "asterix",
@@ -1206,9 +1206,9 @@
     {
         "Cultivar Name": "carioca",
         "Female Parent": "selection of princeps",
-        "Male Parent": "david costen",
-        "Breeder": "2006",
-        "Year": null
+        "Male Parent": "?",
+        "Breeder": "david costen",
+        "Year": "2006"
     },
     {
         "Cultivar Name": "carla viola",
@@ -2850,10 +2850,10 @@
     },
     {
         "Cultivar Name": "hardy red",
-        "Female Parent": "invalid name",
-        "Male Parent": "incarnata",
-        "Breeder": "princeps",
-        "Year": "guido van herck"
+        "Female Parent": "incarnata",
+        "Male Parent": "princeps",
+        "Breeder": "guido van herck",
+        "Year": null
     },
     {
         "Cultivar Name": "harlekin",
@@ -6391,7 +6391,7 @@
         "Year": "2006"
     },
     {
-        "Cultivar Name": "Ševčík selection",
+        "Cultivar Name": "sevcík selection",
         "Female Parent": "selection of edulis",
         "Male Parent": "?",
         "Breeder": "john vanderplank",
@@ -6896,15 +6896,15 @@
     },
     {
         "Cultivar Name": "superba",
-        "Female Parent": "invalid",
-        "Male Parent": "selection of alata",
-        "Breeder": "1852",
-        "Year": null
+        "Female Parent": "selection of alata",
+        "Male Parent": "?",
+        "Breeder": "?",
+        "Year": "1852"
     },
     {
         "Cultivar Name": "supernova",
         "Female Parent": "selection of incarnata",
-        "Male Parent": "0",
+        "Male Parent": "?",
         "Breeder": "ethan nielsen",
         "Year": "2015"
     },
@@ -7134,7 +7134,7 @@
     },
     {
         "Cultivar Name": "trauf",
-        "Female Parent": "complex hybrid of manicata, trisecta & umbilicata",
+        "Female Parent": "complex hybrid of manicata; trisecta & umbilicata",
         "Male Parent": "?",
         "Breeder": "?",
         "Year": null
@@ -7352,8 +7352,8 @@
     {
         "Cultivar Name": "violet selection",
         "Female Parent": "selection of amethyst",
-        "Male Parent": "bettina ulmer",
-        "Breeder": "?",
+        "Male Parent": "?",
+        "Breeder": "bettina ulmer",
         "Year": null
     },
     {
@@ -7694,13 +7694,13 @@
     },
     {
         "Cultivar Name": "61961",
-        "Female Parent": "complex hybrid of princeps, tucumanensis & caerulea",
+        "Female Parent": "complex hybrid of princeps; tucumanensis & caerulea",
         "Male Parent": "?",
         "Breeder": "?",
-        "Year": ""
+        "Year": null
     },
     {
-        "Cultivar Name": "8485?6",
+        "Cultivar Name": "848506",
         "Female Parent": "amethyst",
         "Male Parent": "caerulea",
         "Breeder": "john vanderplank",
@@ -7721,7 +7721,7 @@
         "Year": "1984"
     },
     {
-        "Cultivar Name": "86871?7",
+        "Cultivar Name": "8687107",
         "Female Parent": "(amethyst x caerulea)",
         "Male Parent": "caerulea",
         "Breeder": "john vanderplank",
