@@ -805,6 +805,13 @@
         "Year": "2001"
     },
     {
+        "Cultivar Name": "blue eyed susan",
+        "Female Parent": "?",
+        "Male Parent": "?",
+        "Breeder": "?",
+        "Year": null
+    },
+    {
         "Cultivar Name": "blue fairy",
         "Female Parent": "'Fata Confetto'",
         "Male Parent": "caerulea",
@@ -1582,6 +1589,13 @@
         "Year": "1993"
     },
     {
+        "Cultivar Name": "corinne",
+        "Female Parent": "'Lady Margaret'",
+        "Male Parent": "coccinea",
+        "Breeder": "?",
+        "Year": null
+    },
+    {
         "Cultivar Name": "coronata",
         "Female Parent": "alata",
         "Male Parent": "edulis f. edulis (?)",
@@ -1785,6 +1799,13 @@
         "Year": null
     },
     {
+        "Cultivar Name": "dea ibla",
+        "Female Parent": "?",
+        "Male Parent": "?",
+        "Breeder": "?",
+        "Year": null
+    },
+    {
         "Cultivar Name": "deanna",
         "Female Parent": "manicata",
         "Male Parent": "?",
@@ -1950,6 +1971,13 @@
         "Female Parent": "organensis",
         "Male Parent": "amalocarpa",
         "Breeder": "jim nevers",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "duo thone",
+        "Female Parent": "?",
+        "Male Parent": "?",
+        "Breeder": "henk wouters",
         "Year": null
     },
     {
@@ -2553,6 +2581,13 @@
         "Male Parent": "amethystina 'Santa Tereza'",
         "Breeder": "maurizio vecchia",
         "Year": "2007"
+    },
+    {
+        "Cultivar Name": "francois thuys",
+        "Female Parent": "?",
+        "Male Parent": "?",
+        "Breeder": "?",
+        "Year": null
     },
     {
         "Cultivar Name": "franka",
@@ -3769,6 +3804,13 @@
         "Cultivar Name": "lapis lazuli",
         "Female Parent": "selection of p.caerulea",
         "Male Parent": "?",
+        "Breeder": "?",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "lara",
+        "Female Parent": "garckei",
+        "Male Parent": "'Duo Thone'",
         "Breeder": "?",
         "Year": null
     },
