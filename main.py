@@ -12,7 +12,7 @@ HEADER_FONT = ("open sans", 18)
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
-dataframe = pandas.read_csv("Passiflora_Cultivars_0924.csv")
+dataframe = pandas.read_csv("Passiflora_Cultivars_0924_easy.csv")
 
 breeder_str_list = [str(string) for string in dataframe["Breeder"]]
 name_str_list = [str(string) for string in dataframe["Cultivar Name"]]
