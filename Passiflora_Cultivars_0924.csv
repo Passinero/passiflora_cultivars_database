@@ -1,4 +1,15 @@
 Cultivar Name,Female Parent,Male Parent,Breeder,Year
+12941,princeps,caerulea 'Grandiflora',?,?
+13971,coccinea / miniata,incarnata,?,?
+14971,coccinea / miniata,incarnata,?,?
+19932,coccinea / miniata,incarnata,?,?
+21932,'Viden',caerulea,?,?
+49961,princeps,caerulea,?,?
+61961,complex hybrid of princeps; tucumanensis & caerulea,?,?,?
+848506,'Amethyst',caerulea,john vanderplank,1984
+848512,'Amethyst',caerulea,john vanderplank,1984
+848533,'Amethyst',caerulea,john vanderplank,1984
+8687107,('Amethyst' × caerulea),caerulea,john vanderplank,1986
 aafje,kewensis,caerulea 'Constance Eliott',k. oldegarm,?
 abigail,amethystina var. bolosii,loefgrenii 'Corupa',john vanderplank,2007
 adelheid,rubra,citrina,sebastien wolter,2009
@@ -40,12 +51,12 @@ andrea,(×decaisneana × aff. oerstedii),caerulea 'Constance Eliott',leopold Še
 andromeda,×violacea,caerulea,Eric Wortman / Crystal Stone,2015
 andy,'Amethyst',caerulea,guido van herck,?
 anemona,actinia,caerulea 'Constance Eliott',cor laurens,1992
-angela,×violacea,caerulea 'Constance Eliott',leopold Ševčík,1996
-angelface,kermesina,eichleriana,henk wouters,2007
 angel lito,gibertii,caerulea,delfin santiago,2019
-angelo blu,'Amethyst',subpeltata,maurizio vecchia,1999
 angel of sierre,alata,caerulea 'Constance Eliott',raoul vranken,2015
 angel rebelle,vitifolia,caerulea 'Avalanche',stephane fehr,2017
+angela,×violacea,caerulea 'Constance Eliott',leopold Ševčík,1996
+angelface,kermesina,eichleriana,henk wouters,2007
+angelo blu,'Amethyst',subpeltata,maurizio vecchia,1999
 aninha,palmeri var. sublanceolata,foetida var. foetida,margarete m. souza,2008
 anke,incarnata,amethystina,stefan lang,2005
 anna,×decaisneana,tucumanensis,leopold Ševčík,1993
@@ -68,9 +79,9 @@ asmara,incarnata,loefgrenii 'Corupa',?,2005
 asterix,'Barbora',caerulea 'Constance Eliott',maurizio vecchia,1999
 atropos,'Amethyst',amethystina 'Minas Gerais',crystal stone / eric wortman,2011
 atrorubens,princeps,caerulea,monika gottschalk,1999
+aubergine,×decaisneana,trialata,ronald boender,?
 aurora,foetida,palmeri var. sublanceolata,maurizio vecchia,2001
 auroras crimson star,miniata,incarnata,dawn bethea,2023
-aubergine,×decaisneana,trialata,ronald boender,?
 australian purple,selection of edulis,?,?,?
 avalanche,selection of caerulea 'Constance Eliott',0,cor laurens,2002
 azul celeste,'Sweet Surrender',caerulea,henk wouters,2009
@@ -82,10 +93,9 @@ balam,coriacea,xiikzodz,john macdougal,1996
 banana poka,syn.: tripartita var. mollissima,?,?,?
 banna sky,'Jolly Jack',caerulea,fuchuan wu,2021
 banshee,'Byron Beauty','Byron Beauty',stefan lang,2004
-bärbel heidepriem,'Carla Viola',amethystina 'Minas Gerais',ernst natt,2014
-barborea,'Amethyst',caerulea 'Constance Eliott',maurizio vecchia,?
 barbora,'Lavender Lady',?,leopold Ševčík,1996
-barra do oura,selection of P. caerulea,null,?,?
+barborea,'Amethyst',caerulea 'Constance Eliott',maurizio vecchia,?
+barra do oura,selection of P. caerulea,,?,?
 basing park hybrid,?,?,george nicholson,1901
 beaky,×violacea 'Victoria',caerulea,c. beardshaw,?
 beauty,?,?,?,?
@@ -108,8 +118,8 @@ blanca / blanka,caerulea 'Constance Eliott',('Lavender Lady' caerulea),?,?
 blaumilch,garckei,caerulea 'Constance Eliott',?,?
 blaupunkt,'Blaumilch',amethystina,axel frank / franz dülli,?
 blowback,×exoniensis,umbilicata,henk wouters / david potter,2007
-blue bouquet,caerulea,'Lavender Lady',richard McCain,1989
 blue bird,incarnata,tucumanensis,john vanderplank,2000
+blue bouquet,caerulea,'Lavender Lady',richard McCain,1989
 blue boy,incarnata,caerulea,?,?
 blue bride,incarnata 'Alba',loefgrenii 'Iporanga',henk wouters,2005
 blue byte,(edulis × incarnata),(incarnata × cincinnata),roland fischer,2002
@@ -147,17 +157,18 @@ brazil / brazilie,selection of alata,?,?,?
 brazilian gold,selection of edulis f. flavicarpa,?,?,?
 briedeliana,?,?,?,?
 bright eyes,'Angelo Blu',kermesina,henk wouters,2005
-brökwagter,'Amethyst',caerulea,henk wouters,?
-brownsville,selection of P. foetida,null,?,?
+brownsville,selection of P. foetida,,?,?
 brs estrela do cerrado,coccinea,setacea,„embrapa“ - plant breeders rights,2008
 brs roseflora,'Brs Estrela Do Cerrado',setacea,„embrapa“ - plant breeders rights,2008
 brs rubiflora,'Brs Estrela Do Cerrado',coccinea,„embrapa“ - plant breeders rights,2008
+brökwagter,'Amethyst',caerulea,henk wouters,?
 buckfordii,?,?,?,?
 butterscotch,selection of capsularis,?,?,?
 buzios,selection of princeps,?,?,?
 byron beauty,edulis,incarnata,j.r. knight,1995
 byte,'Byron Beauty','Inspiration',roland fischer,?
 byte red fruit,?,?,?,?
+bärbel heidepriem,'Carla Viola',amethystina 'Minas Gerais',ernst natt,2014
 cacita,citrina,'Adularia',silvan kamstra,?
 caerulietta,caerulea,miersii,salvatore la delfa,2020
 california,selection of manicata,?,?,?
@@ -197,7 +208,7 @@ cherry tart,cuprea,(yucatanensis × biflora),jim nevers,?
 chianti,gritensis,?,roland fischer,?
 chilean dreams,?,?,jana heym,?
 china blue,selection of caerulea,?,?,?
-china select,selection of P. edulis,null,?,?
+china select,selection of P. edulis,,?,?
 chinensis,selection of caerulea,?,?,?
 chiquito,'Morning Star',gritensis,henk wouters,2009
 christine murray,caerulea,×decaisneana,martin murray,2005
@@ -209,7 +220,6 @@ clear sky,((amethystina × caerulea) × caerulea),caerulea,roland fischer,?
 cleweriana,masters,1877,?,?
 cloudy,'Sweet Surrender',caerulea,henk wouters,2009
 clowesii / clowesiana,?,?,van houtte,?
-coocoochee,('Amethyst' × princeps),gritensis,roland fischer,?
 coelestina,?,?,?,?
 cold blue,'Amethyst',caerulea,guido van herck,?
 colet,princeps,tucumanensis,leopold Ševčík,1999
@@ -224,10 +234,11 @@ comte woronzoff,selection of rad'Diana',?,?,?
 comtesse anna,?,?,?,?
 comtesse giuglini,?,?,T. Bainers,1876
 concordia,selection of caerulea,christian feuillet,1991,?
-Connie,?,?,frank moser,2000
+connie,?,?,frank moser,2000
 connor cailean,loefgrenii 'Corupa',caerulea,robert McPhail,2008
 constance eliott,selection of caerulea,masters,1884,?
 contento,gritensis,amethystina,henk wouters,2007
+coocoochee,('Amethyst' × princeps),gritensis,roland fischer,?
 cooloola blue,subpeltata,edulis 'Lacey',robert dostal,2021
 coral flowers,?,?,?,?
 coral glow,(tripartita var. mollissima × manicata),jamesonii (?),patrick worley,1983
@@ -254,13 +265,13 @@ cutie,'Kew Gardens',caerulea 'Constance Eliott',david costen,?
 dafne,edmundoi,kermesina,maurizio vecchia,2010
 dakota ransom,'Amethyst',caerulea,sally ransom,2001
 dalal,amethystina,'Thuraia',maurizio vecchia,2007
-damsel's delight,syn.: 'Silly Cow',null,myles irvine,?
+damsel's delight,syn.: 'Silly Cow',,myles irvine,?
 dani,'Amethyst',caerulea,christopher taube,2018
 daniela,(tucumanensis × princeps),caerulea,leopold Ševčík,1996
 danièle sabureau,'Murac',tarapotina,sebastien sabureau,2014
 danza delle ore,edmundoi,caerulea,maurizio vecchia,2021
 darina,incarnata,?,?,?
-dark pollen,selection of P. cincinnata,null,?,?
+dark pollen,selection of P. cincinnata,,?,?
 dark purple,selection of incarnata,?,?,?
 dark romance,?,?,?,?
 dark star,edulis f. flavicarpa,caerulea,frank moser,?
@@ -269,7 +280,6 @@ dea ibla,?,?,?,?
 deanna,manicata,?,?,?
 debbie marie hescott,jane t,citrina,martin wills,2016
 debby,caerulea,gibertii,leopold Ševčík,1999
-×decaisneana,alata,quadrangularis,planchon,1853
 dedorina,×violacea,caerulea,silvan kamstra,?
 deidamata,'White Wedding','Byron Beauty',koos scheurwater,?
 dejà vu,kermesina,caerulea 'Constance Eliott',roland fischer,2005
@@ -282,14 +292,15 @@ diego,'Amethyst',caerulea,martine sanchez,2014
 diva,'Cupids Blush',p. caerulea,david costen,2015
 divertido,(tripartita var. mollissima × mixta),luzmarina,henk wouters,2007
 doktor wittmack,'Loudonii',princeps,haage & schmidt,1883
+dolce italia,selection of P. caerulea (white),?,stefania mattiuzzo,?
 dolcemente,sprucei,caerulea 'Constance Eliott',maurizio vecchia,2024
 dominic,'Adularia',?,?,?
 donna brigham,?,?,patrick worley,1996
 doris,incarnata,?,?,?
 doubravka,princeps,aff. oerstedii,leopold Ševčík,?
+dr. wittmach,princeps,kermesina (?),Haage & Schmidt,1883
 drahomira,cincinnata,aff. oerstedii,leopold Ševčík,?
 dreamcatcher,organensis,amalocarpa,jim nevers,?
-Dr. Wittmach,princeps,kermesina (?),Haage & Schmidt,1883
 duo thone,?,?,henk wouters,?
 eclipse,×violacea,caerulea,fraser wescott,?
 ecuador lace,selection of edulis,?,?,?
@@ -300,13 +311,13 @@ edoardo vagli,'Fata Confetto',caerulea,franco vagli,2021
 edyta,'Annette',princeps,sebastien sabureau,2014
 ek1,syn.: 'Dedorina',?,?,?
 ek2,×violacea 'Victoria',caerulea,silvan kamstra,?
-elegante,kermesina,mucronata,henk wouters,2009
 el indio,selection of trifasciata,'Michael' schwerdtfeger,?,?
-elice,edmundoi,'La Morellina',nadine van rüschen,2020
-eloper,luzmarina,loefgrenii 'Iporanga',carlos rendon,?
 el oro,selection of punctata,'Michael' schwerdtfeger,?,?
 el tambo,klaas kingma,?,?,?
+elegante,kermesina,mucronata,henk wouters,2009
+elice,edmundoi,'La Morellina',nadine van rüschen,2020
 elizabeth,phoenicea,incarnata,patrick worley,1993
+eloper,luzmarina,loefgrenii 'Iporanga',carlos rendon,?
 els,trisecta,mixta,henk wouters,2002
 ely,caerulea,'Amethyst',henk wouters,?
 embressa,?,?,?,?
@@ -317,11 +328,11 @@ emma,?,?,john vanderplank,?
 encantado,?,?,eric wortman / crystal stone,?
 energie,?,?,stafania mattiuzzo,?
 enigma,×decaisneana,alata,john vanderplank,1996
-erik / eric,×decaisneana,caerulea,van der steeg,?
 eric peter,'Violetta',amethystina 'Minas Gerais',jim nevers,?
+erik / eric,×decaisneana,caerulea,van der steeg,?
 erl,blue-eyed susan,'Blue Bouquet',kyle rahrig,2014
 escobar,selection of manicata,?,?,?
-èspero,incarnata 'Alba',actinia,maurizio vecchia,2001
+espero,incarnata 'Alba',actinia,maurizio vecchia,2001
 esplendor,princeps,tarapotina,francois thuys,?
 essenza,('Temptation' × 'Temptation'),'Inspiration',stefania mattiuzzo,?
 etna,'Asterix',loefgrenii 'Iporanga',maurizio vecchia,2005
@@ -332,9 +343,8 @@ evelina,incarnata,'Byron Beauty',?,?
 evelyne,×decaisneana,caerulea,van der steeg,?
 evergreen,?,?,?,?
 everywhere,amethystina,sprucei,john vanderplank,2001
-excel,edulis,caerulea,les king,2000
 ex menton,?,?,?,?
-×exoniensis,antioquiensis,tripartita var. mollissima,?,1872
+excel,edulis,caerulea,les king,2000
 eye of the storm,'Morning Star',gritensis,henk wouters,2005
 eyleen,tucumanensis,princeps,leopold Ševčík,?
 eynsford gem,caerulea,princeps,?,?
@@ -362,12 +372,12 @@ first love,kermesina,oerstedii,henk wouters,2005
 fixstern,'Amethyst',caerulea 'Constance Eliott',monika gottschalk,1991
 fledermouse,biflora,perfoliata,patrick worley,1984
 flirtation,gritensis,loefgrenii 'Corupa',john vanderplank,2007
-floral fountain,phoenicea,actinia,rick McCain,1989
 flora sabureau 1,'Kew Gardens',princeps 'Buzios',sebastien sabureau,2014
 flora sabureau 2,'Kew Gardens',princeps 'Buzios',sebastien sabureau,2014
 flora sabureau 3,'Kew Gardens',princeps 'Buzios',sebastien sabureau,2014
 flora sabureau 4,'Kew Gardens',princeps 'Buzios',sebastien sabureau,2014
 flora sabureau 5,'Kew Gardens',princeps 'Buzios',sebastien sabureau,2014
+floral fountain,phoenicea,actinia,rick McCain,1989
 florida,selection of edulis,klaas kingma,?,?
 flottbekstern,?,?,?,?
 flying v,pendulifolia,perfoliata,myles irvine,2001
@@ -376,7 +386,7 @@ fragrance,selection of caerulea,?,?,?
 fragrans,selection of alata,?,?,?
 fragrant beauty,?,?,?,?
 francesco iII° deste,'Clear Sky',amethystina 'Santa Tereza',maurizio vecchia,2007
-francois thuys,princeps,sprucei,?,?
+francois thuys,princeps,sprucei,francois thuys,?
 franka,'Creamy',aff. oerstedii,leopold Ševčík,1996
 freckle face,princeps,cincinnata,rick McCain,1990
 fredrick,edulis 'Brazilian Gold',edulis 'Kahuna',patrick worley,1993
@@ -410,8 +420,8 @@ golden glow,manicata,pinnatistipula,patrick worley,1996
 golden jubilee,capsularis,citrina,martin wills,2004
 golden nugget,selection of edulis,?,?,?
 golden star,selection of edulis,'Emil Kugler',?,?
-gote rosse,trisecta,manicata,engelo ciacciulli,2020
 gontieri,?,?,?,?
+gote rosse,trisecta,manicata,engelo ciacciulli,2020
 grace ann,'Peter Lawrence',cincinnata,ronald boender,2007
 grand duchess,gritensis,loefgrenii 'Iporanga',henk wouters,2005
 grandiflora,invalid name,selection of caerulea,?,?
@@ -427,8 +437,8 @@ harmonie daybreak,arida,palmeri var. sublanceolata,ethan nielsen,2007
 hartmuts blue violett,probably synonym for 'Amethyst',?,?,?
 hartwissiana,selection of caerulea (white),?,?,?
 hawaiian yellow,selection of edulis,?,?,?
-HDfK1,'Harmonie Daybreak',foetida kevin,eric wortman / chrystal stone,?
-HDfL2,'Harmonie Daybreak',foetida 'Linda',eric wortman / chrystal stone,?
+hdfk1,'Harmonie Daybreak',foetida kevin,eric wortman / chrystal stone,?
+hdfl2,'Harmonie Daybreak',foetida 'Linda',eric wortman / chrystal stone,?
 heavenly blue,'Purple Rain',caerulea,cor laurens,2001
 helena,tucumanensis,aff. oerstedii,leopold Ševčík,1993
 hematite,sanguinolenta,capsularis,john vanderplank,1989
@@ -510,8 +520,8 @@ kaiserin eugenia,syn.: imperatrice eugenia,?,?,?
 kanga,edulis,incarnata,david l. evans,?
 kangason,selection of 'Kanga',david l. evans,?,?
 karen,parritae,antioquiensis,carlos ibarra,2016
-karga,'Incense',incarnata,kj. showers,?
 karen jacobsen,incarnata,lehmanii,rick McCain,1992
+karga,'Incense',incarnata,kj. showers,?
 karla,cincinnata,?,leopold Ševčík,1996
 kate adie,tucumanensis,sprucei,john vanderplank,2001
 kate roberts,sanguinolenta,capsularis,martin wills,2005
@@ -531,45 +541,45 @@ kudos,'Kew Gardens',×violacea,david costen,?
 kunhuta,×decaisneana,caerulea,leopold Ševčík,?
 kunigunde,?,?,leopold Ševčík,1998
 kursk star,alata,caerulea,alexei miroshnichenko,2019
+l'estro armonico,incarnata,princeps 'Buzios',maurizio vecchia,2024
+la brunella,kermesina,amethystina sancta tereza,maurizio vecchia,2019
+la fenice,edmundoi (pink),caerulea 'Pierre Pomie',maurizio vecchia,2022
+la lucchese,'Fata Confetto',kermesina,maurizio vecchia,2008
+la morellina,'Asterix',amethystina 'Minas Gerais',maurizio vecchia,2007
+la mortola,?,?,?,?
+la reina maxima,miniata,alata,?,?
+la serenissima,edmundoi,caerulea 'Constance Eliott',maurizio vecchia,2013
+la stravaganza,'Morning Star',sprucei,maurizio vecchia,2024
+la triestina,'Purple Pendulum','White Mirror',raoul vranjen / patrizia vranken-smeets,2011
+la venexiana,edmundoi,caerulea 'Pierre Pomie',maurizio vecchia,2007
 laakdal,incarnata,'White Star',raoul & patrizia vranken-smeets,2011
 labgirl,umbilicata,oerstedii var. choconiana,roland fischer,2000
-la brunella,kermesina,amethystina sancta tereza,maurizio vecchia,2019
 lacey,selection of edulis,?,?,?
 lada,cincinnata,caerulea,leopold Ševčík,1993
-ladybirds dream,different cultivars sold by baldur,?,?,?
 lady camille,'Thuraia',?,mark stratton,2008
 lady cornelia everdina,garckei,caerulea 'Avalanche',rob McPhail,2021
 lady in red,'Lady Margaret',vitifolia,henk wouters,2005
 lady margaret,coccinea,incarnata,tim skimina,1996
-la fenice,edmundoi (pink),caerulea 'Pierre Pomie',maurizio vecchia,2022
+ladybirds dream,different cultivars sold by baldur,?,?,?
 lakdal,incarnata,'White Star',raoul vranken / patrizia vranken-smeets,?
-la lucchese,'Fata Confetto',kermesina,maurizio vecchia,2008
 lambiekins,'Emil Kugler',loefgrenii 'Iporanga',myles irvine,2006
 lamepiana,vitifolia,hatschbachii,aline pinto dos santos,2022
-la morellina,'Asterix',amethystina 'Minas Gerais',maurizio vecchia,2007
-la mortola,?,?,?,?
 lana,kermesina,actinia,shawn mattison,2014
 lana 2,kermesina,actinia,shawn mattison,2015
 lanphiers stermer,selection of edulis,?,?,?
 lapis lazuli,selection of p.caerulea,?,?,?
 lara,garckei,'Duo Thone',?,?
 laranja,selection of P. parritae,?,carlos rendon,?
-la reina maxima,miniata,alata,?,?
-la serenissima,edmundoi,caerulea 'Constance Eliott',maurizio vecchia,2013
-la stravaganza,'Morning Star',sprucei,maurizio vecchia,2024
 latifolia,invalid,syn.: ×decaisneana,?,?
-la triestina,'Purple Pendulum','White Mirror',raoul vranjen / patrizia vranken-smeets,2011
 laura,×decaisneana,caerulea 'Constance Eliott',leopold Ševčík,1998
 laura torres,×exoniensis,luzmarina,carlos ibarra,2015
 laurens laurens,'Purple Rain','Avalanche',cor laurens,2002
 lavender lady,?,?,?,?
-la venexiana,edmundoi,caerulea 'Pierre Pomie',maurizio vecchia,2007
 lawsoniana,princeps,alata,masters,1868
 lead hill,selection of P. incarnata,?,?,?
 leida,incarnata,cincinnata (dark pollen),maurizio vecchia,2005
 lemicheziii / lemischeziana,?,?,sir joseph paxton,1847
 lena sc.,trifasciata,misera,andreas beck,2021
-l'estro armonico,incarnata,princeps 'Buzios',maurizio vecchia,2024
 lia vallini,'Fata Confetto','White Star',raoul & patrizia vranken-smeets,2011
 libuse,incarnata,princeps,leopold Ševčík,1993
 light blue,selection of caerulea,?,?,?
@@ -590,11 +600,11 @@ little orchid,?,?,guido van herck,?
 livie,cincinnata,herbertiana,leopold Ševčík,1997
 lobo,apetala,ornithoura,patrick worley / rick McCain,?
 lois lane,cincinnata,princeps,cor laurens,1994
-long guy,selection of P. edulis,null,?,?
+long guy,selection of P. edulis,,?,?
 lorayne,selection of incarnata,don martinson,?,?
 loudonii,princeps,kermesina,c. lemaire,1847
-louise,incarnata f. 'Alba',princeps,graeme boocock,2021
 louis-manuelii,?,?,?,?
+louise,incarnata f. 'Alba',princeps,graeme boocock,2021
 love,edmundoi,caerulea,martine sanchez,2016
 lovetta,kermesina,munzii,clay dove,2017
 lowlands,syn.: quadrangularis,?,?,?
@@ -612,7 +622,6 @@ lunametista,caerulea 'Constance Eliott',loefgrenii 'Iporanga',maurizio vecchia,2
 lydie,'Panda',caerulea,martine sanchez,2016
 macae de cima,selection of amethystina,?,?,?
 machou,jacques jannel,?,?,?
-maeva larique,?,?,sebastien larique,?
 mackenzie,greg cunningham,2001,?,?
 mackintoshii,?,?,kew gardens,1931
 macleischii,?,?,?,?
@@ -623,6 +632,7 @@ madlena,,'Byron Beauty',aff. oerstedii,?
 madonna,buonapartea,princeps,eduard otto,1873
 mae,'Indigo Dreams',caerulea,greg cunningham,?
 maeva,'Amethyst',subpeltata,jean j. segalen,1998
+maeva larique,?,?,sebastien larique,?
 maggie,caerulea,'Elizabeth',guido van herck,?
 magic maiden,gritensis,kermesina,roland fischer,2004
 maia,'Incense',caerulea 'Pierre Pomie',maurizio vecchia,2009
@@ -631,18 +641,18 @@ majorca,selection of caerulea,?,?,?
 malena,'Amethyst',caerulea,franz dülli,2015
 maloya,edulis,edulis f. flavicarpa,?,?
 mammoth purple granadilla,selection of edulis,?,?,?
-marco polo,edmundoi (pink), caerulea 'Pierre Pomie',maurizio vecchia,2024
-mardi gras,'Janus',?,shawn mattison,?
 manapany,'Byron Beauty','Temptation',j. segalen,?
-manta,xiikzodz,coriacea,maurizio vecchia,2002
-mantega,'Manta',megacoriacea,rosali ziller,2010
 mansai 1,miniata,?,fuchuan wu,2022
 mansai 8,miniata,?,fuchuan wu,2022
 mansai red,miniata,'Lady Margaret',fuchuan wu,2021
+manta,xiikzodz,coriacea,maurizio vecchia,2002
+mantega,'Manta',megacoriacea,rosali ziller,2010
 mara love,?,?,antonio gil,?
 maranda / miranda,?,?,?,?
 marcela,incarnata,(incarnata × princeps),leopold Ševčík,1996
 marchelo,'White Mirror',caerulea 'Constance Eliott',marchelo castelano,2018
+marco polo,edmundoi (pink), caerulea 'Pierre Pomie',maurizio vecchia,2024
+mardi gras,'Janus',?,shawn mattison,?
 margaret my love,cocuyensis,'Connor Cailean',rob McPhail,2023
 margaret wilson,buonapartea,caerulea,john wilson,1899
 maria,'Amethyst',caerulea 'Constance Eliott',guido van herck,1999
@@ -660,12 +670,12 @@ maristella,incarnata,kermesina,maurizio vecchia,2010
 marlie,sanguinolenta,citrina,henk wouters,?
 marloes,princeps,caerulea 'Constance Eliott',?,?
 marmorata,selection of organensis,?,?,?
-martinii,?,?,?,?
-martin's magic,sanguinolenta,quinquangularis,martin wills,?
 marselle,?,?,florence knock,1965
-maryattae,?,?,?,?
+martin's magic,sanguinolenta,quinquangularis,martin wills,?
+martinii,?,?,?,?
 mary jane,vitifolia,glandulosa,ronald boender,2001
 mary rose,selection of sanguinolenta,?,?,?
+maryattae,?,?,?,?
 matti,'Blue Horizon',gritensis,jana heym / shawn mattison,?
 matuzia,kermesina,hastifolia,maurizio vecchia,2012
 maurizio,incarnata,kermesina,sebastien sabureau,2014
@@ -676,10 +686,10 @@ mauvis mastics,princeps,caerulea,?,?
 maxima,'Purple Rain',caerulea 'Constance Eliott',cor laurens,2001
 mayana,selection of caerulea,?,?,?
 mayday,subpeltata,caerulea,paul zmoda,?
-McCain,selection of edulis,?,?,?
+mccain,selection of edulis,?,?,?
 medallion,incarnata,actinia,rick McCain,1990
 medium blue,selection of caerulea,?,?,?
-mekan,selection of P. amethystina,null,?,?
+mekan,selection of P. amethystina,,?,?
 merryon,selection of caerulea,?,?,?
 michael,vitifolia,caerulea,?,?
 michaela,coccinea,?,leopold Ševčík,1996
@@ -702,14 +712,14 @@ mme. dambreville,'Kew Gardens',caerulea,?,?
 mom,'Peter Lawrence',quadriglandulosa,ronald boender,2007
 mondrian red,'Nautilus',parritae,carlos ibarra,?
 monika fischer,(incarnata × amethystina),(kermesina × caerulea),roland fischer,?
+monique klemann,×decaisneana,caerulea,cor laurens,?
 moonburst,trifasciata,'Sunburst',patrick worley,?
 moonlight,'Clara Luna',caerulea,annalisa giovannini,2017
-monique klemann,×decaisneana,caerulea,cor laurens,?
 moritz,tarapotina,caerulea,ernst natt,2011
 morning star,'Angelo Blu',kermesina,henk wouters,2004
 mrs. merton,?,?,?,?
-mums gate,selection of jamesonii,?,?,?
 muico,selection of edulis,?,?,?
+mums gate,selection of jamesonii,?,?,?
 munroi,alata,caerulea,masters,1868
 murac,mucronata,princeps,franz dülli / axel frank,2009
 murano,edmundoi (pink),caerulea 'Constance Eliott',maurizio vecchia,2022
@@ -723,6 +733,7 @@ ned kelly,selection of edulis,?,?,?
 nelly / nellie,princeps,st rule,?,?
 nelly kelly,selection of edulis,syn.: 'Australian Purple',?,?
 neptune,gibertii,subpeltata,john vanderplank,2007
+nereide,?,?,stefania mattiuzzo,?
 neubertii,alata,caerulea,?,1881
 neumannii,?,?,?,1838
 new amethyst,kermesina,caerulea,?,?
@@ -742,7 +753,7 @@ noirceur,'Fata Confetto','White Wedding',marcel böhrer,?
 nora,princeps,caerulea,leopold Ševčík,?
 norfolk,selection of edulis (white),?,?,?
 nova star,'Star Of Kingston',caerulea,van der steeg,?
-nube rosa,?,?,henk wouters,?
+nube rosa,?,?,?,?
 oaklandia,tarminiana,manicata,liz waterman,?
 oaxaca,selection of helleri,?,?,?
 odette,kermesina,miersii,maurizio vecchia,2007
@@ -770,12 +781,12 @@ panda,'Monika Fischer','White Wedding',roland fischer,2006
 pandora, syn. Stefano Capitanio,?,?,?
 paola gastaldo,incarnata,sprucei,maurizio vecchia,2001
 paraguay,selections of various species,?,?,?
-patricie,'Colet',caerulea,leopold Ševčík,1996
-patty anne,amethystina,incarnata,?,?
-patula,?,?,?,?
 party animal,?,?,myles irvine,?
 party time,platyloba,maliformis,jim nevers,?
+patricie,'Colet',caerulea,leopold Ševčík,1996
 pattie webb,'White Wedding',?,raoul vranken,?
+patty anne,amethystina,incarnata,?,?
+patula,?,?,?,?
 paulo,edulis f. flavicarpa,caerulea,les king,2004
 pavlina,kewensis,oerstedii,leopold Ševčík,1996
 paxtonii,princeps,alata,?,?
@@ -796,22 +807,22 @@ pierre pomie,selection of caerulea,?,?,?
 piet en marja colet,garckei,caerulea,john vanderplank,2016
 pina,('Temptation' × 'Temptation'),('Temptation' × 'Inspiration'),stefania mattiuzzo,2017
 pinanga,selection or variety of mixta,?,?,?
-pinkarella,(arida × sublanceolata),sublanceolata,ethan nielsen,?
 pink favorite,'Insignis',luzmarina,henk wouters,2007
 pink festival,gritensis,amethystina,henk wouters,2005
 pink fizz,'Kew Gardens',tucumanensis,david costen,2008
 pink jessie,(sanguinolenta × capsularis),conzattiana,martin wills,2004
 pink jewel,foetida var. hirsutissima,palmeri var. sublanceolata,john vanderplank,2001
 pink lady,incarnata,princeps,raoul vranken,?
-pink passion,commercial name of 'Wilgen K. Verhoeff',?,?,?
-pink polkadot,'Pink Jewel','Aurora',john vanderplank,2004
 pink nightmare,subpeltata,gritensis,?,?
 pink panther,selection of tripartita var. mollissima,'Dani'el southard,2004,?
+pink passion,commercial name of 'Wilgen K. Verhoeff',?,?,?
+pink polkadot,'Pink Jewel','Aurora',john vanderplank,2004
 pink pride,'Rosa Stern',gritensis,henk wouters,2000
 pink pride 3,'Rosa Stern',gritensis,henk wouters,2000
 pink promenade,trisecta,mixta,rick McCain,1990
 pink seduction,('Asterix' × subpeltata),gritensis,henk wouters,?
 pink star,princeps,caerulea 'Constance Eliott',cor laurens,?
+pinkarella,(arida × sublanceolata),sublanceolata,ethan nielsen,?
 pinky,×exoniensis,mixta,henk wouters,2007
 pintado,selection of edulis,?,?,?
 pippin,'Rattana',edulis f. flavicarpa,yvan vilain,2016
@@ -847,11 +858,11 @@ purple flame,incarnata,caerulea,christopher taube,2018
 purple gem,selection of edulis,?,?,?
 purple giant,selection of edulis,?,?,?
 purple haze,amethystina,caerulea,cor laurens,1995
-purple-heart,amethystina 'São Sebastião',amethystina,john vanderplank,2005
 purple passion,?,?,?,1972
 purple pendulum,loefgrenii,caerulea,jos spierenburg,?
 purple rain,amethystina,caerulea,cor laurens,1996
 purple tiger,phoenicea,quadrangularis,patrick worley,1996
+purple-heart,amethystina 'São Sebastião',amethystina,john vanderplank,2005
 quasar / quazar,caerulea 'Constance Eliott',pallens,patrick worley,?
 queen beatrix,subpeltata,gritensis,?,?
 queen guinevere,semiciliosa,menispermifolia,rob McPhail,2022
@@ -865,8 +876,8 @@ raspberries and cream,subpeltata,gritensis,roland fischer / mark cooper,?
 raspberry strudel,'Annette',incarnata,?,?
 rattana,edulis 'Panama Red',edulis f. flavicarpa,yvan vilain,2014
 rauhnacht,mooreana,colvillii,thomas schneider,?
-red bird,'Coral Glow',manicata,patrick worley / rick McCain,?
 red barron,john maloski,?,?,?
+red bird,'Coral Glow',manicata,patrick worley / rick McCain,?
 red cloud,('Amethyst' × princeps),gritensis,roland fischer,?
 red dwarf,cuprea,?,simon schulz,2004
 red emperor,?,?,?,?
@@ -881,8 +892,8 @@ regina,('Amethyst Beauty' × caerulea 'Constance Eliott'),oerstedii,leopold Šev
 regnellii,selection of caerulea,?,masters,1872
 rialto,edmundoi,hastifolia,maurizio vecchia,2023
 rinconata,cincinnata,caerulea 'Constance Eliott',sally pert,2007
-rio das ostras,selection of P. mucronata,null,?,?
-riograndina / rio grandina,selection of P. amethystina,null,?,?
+rio das ostras,selection of P. mucronata,,?,?
+riograndina / rio grandina,selection of P. amethystina,,?,?
 rita,princeps,kewensis,guido van herck,?
 robertii,'Insignis',antioquiensis,masters,1875
 robin,?,?,?,?
@@ -890,17 +901,17 @@ rochelle,platyloba,incarnata,patrick worley / rick McCain,?
 roedie,cincinnata,pura vida,hendrik j. gommer,1991
 roobas,miersii,loefgrenii 'Corupa',robert McPhail,2014
 rook li,?,?,?,?
-rosachiara,'Angelo Blu',phoenicea,maurizio vecchia,?
 rosa dell'Alba',sublanceolata,foetida var. hispida,maurizio vecchia,?
-rosamarie,'Simpin',loefgrenii 'Corupa',maite chico padron,2007
-rosaspina,'Arabesque',urbaniana,maurizio vecchia,?
 rosa stern,'Star Of Mikan',subpeltata,van der steeg,?
 rosa traum,coccinea,caerulea 'Constance Eliott',monika gottschalk,1991
-rosea,pinnatistipula,tripartita var. molissima,h. karsten,1856
+rosachiara,'Angelo Blu',phoenicea,maurizio vecchia,?
+rosamarie,'Simpin',loefgrenii 'Corupa',maite chico padron,2007
+rosaspina,'Arabesque',urbaniana,maurizio vecchia,?
 rosea,princeps,caerulea,?,?
+rosea,pinnatistipula,tripartita var. molissima,h. karsten,1856
 rosemary,?,?,?,?
 rossana,'Angelo Blu',phoenicea,maurizio vecchia,2001
-round fruit,selection of rubra,null,?,?
+round fruit,selection of rubra,,?,?
 rowena,incarnata 'Alba',?,gerrit graat,2003
 royale,macrocarpa,quadrangularis,ronald boender,2007
 rubi,manicata,mollissima,jana heym,?
@@ -908,33 +919,32 @@ ruby glow,selection of phoenicea,?,patrick worley,?
 runt,incarnata maryland,'Jutta',hal love,?
 runway,selection of helleri,?,?,?
 sabin,princeps,caerulea,monika gottschalk,1991
-santa tereza,selection of amethystina,?,?,?
-sarah rachel,(kermesina × (loefgrenii × caerulea)),caerulea 'Constance Eliott',shawn mattison,2014
 saint jean cap ferrat,?,?,?,?
 saint julien,incarnata,caerulea,axel frank,?
 saint paul,?,?,?,?
 saint rule,subpeltata,buonapartea,john wilson,190?
 sammie b,'Pink Jessie','Lucy Zara',martin wills,2005
+san francisco,syn.: golden gate,selection of mixta,?,?
+san marco,edmundoi (pink),caerulea,maurizio vecchia,2021
 sancap,sanguinolenta,capsularis,leopold Ševčík,?
 sandra,incarnata,oerstedii var. choconiana,leopold Ševčík,1996
-san francisco,syn.: golden gate,selection of mixta,?,?
 sangwellii,?,?,?,?
-san marco,edmundoi (pink),caerulea,maurizio vecchia,2021
 santa lucia,edmundoi,caerulea,maurizio vecchia,2023
-são sebastião,selection of amethystina,?,?,?
+santa tereza,selection of amethystina,?,?,?
 sapelo,selection of lutea,dan long,2011,?
 sapphire,edulis f. flavicarpa,?,john vanderplank,1996
 sarah,cincinnata,miniata,ronald boender,?
 sarah aimee,foetida,urbaniana,john vanderplank,2000
+sarah rachel,(kermesina × (loefgrenii × caerulea)),caerulea 'Constance Eliott',shawn mattison,2014
 sarapito,'White Wedding',caerulea 'Emil Kugler',maite chico padron,2007
-scharka,×decaisneana,aff. oerstedii,Leopold Ševčic,1993
 scarlet,selection of manicata,?,?,?
 scarlet flame,selection of vitifolia,0,kartuz greenhouses,1984
 schalker siegestaumel,'Tinalandia','Darina',?,?
-schöne von imantag,selection of tripartita var. mollissima,?,?,?
+scharka,×decaisneana,aff. oerstedii,Leopold Ševčic,1993
 schroederiana,alata,'Loudonii',j. a. schroeder,1845
-schropeana,?,?,?,?
 schroopeana,selection of caerulea,?,?,?
+schropeana,?,?,?,?
+schöne von imantag,selection of tripartita var. mollissima,?,?,?
 scotti,?,?,?,?
 scribble,cincinnata,gibertii,maurizio vecchia,2000
 senta,'Amethyst Beauty',eichleriana,leopold Ševčík,1993
@@ -944,9 +954,10 @@ sevcík selection,selection of edulis,?,john vanderplank,1996
 shannon,alata,?,?,?
 sharka,oerstedii,×decaisneana,leopold Ševčík,1993
 shelly,'Amethyst',caerulea,henk wouters,?
-shemsa,intraspecific hybrid of foetida,null,Kemal Theo Delic,2003
+shemsa,intraspecific hybrid of foetida,,Kemal Theo Delic,2003
 shirley,'Amethyst Beauty',eichleriana,leopold Ševčík,1993
 showy shadow,'Violetta',caerulea,bettina ulmer,?
+si simona,'Purple Haze','Simply Red',cor laurens,?
 sibilla,'Gaia',princeps 'Buzios',maurizio vecchia,2013
 silly cow,syn.: 'Damsel'S Delight',?,myles irvine,?
 silver sabre,selection of lutea,?,?,?
@@ -956,32 +967,28 @@ simpin,caerulea,amethystina,silvan kamstra,?
 simply red,caerulea,amethystina,cor laurens,2000
 singularity,incarnata,mooreana,eric wortman,?
 sirius,selection of amethystina,?,axel frank,?
-si simona,'Purple Haze','Simply Red',cor laurens,?
 sjana,coccinea,incarnata 'Alba',henk wouters,2003
 skinneri,?,?,?,?
 skywalker,kermesina,loefgrenii 'Corupa',bettina ulmer,?
 smelly,'Kew Gardens'',retipetala,bettina ulmer,2002
 smithiana,manicata,tripartita var. molissima,masters,1891
-snowflake,citrina,cobanensis,martin wills,2004
 snow queen,?,?,myles irvine,?
 snow white,(caerulea × 'Amethyst'),'Sapphire',john thompson,2003
+snowflake,citrina,cobanensis,martin wills,2004
 soi fah,caerulea / incarnata (?),laurifolia (?),?,?
 solange,'Peter Lawrence',piresae,ron boender,2007
-solène,vitifolia,incarnata,alain tan / sebastien sabureau,2011
 solferino,×exoniensis,parritae,carlos ibarra,?
+solène,vitifolia,incarnata,alain tan / sebastien sabureau,2011
 sonia,'Clear Sky',caerulea 'Constance Eliott',roland fischer / francisco j. diez,2004
 sonja dülli,vitifolia,incarnata 'Alba',franz dülli,2009
 sophie d-j,'Murac',tarapotina,sebastien sabureau,2014
 spider,incarnata,'Barbora',maurizio vecchia,2000
 sprinkle rain,'Blaumilch',gritensis,henk wouters,2005
 spyder,selection of caerulea,?,patrick worley / rick McCain,1993
-starlight,alata,caerulea,stefan lang,2004
-stefano capitanio,'Fata Confetto',edmundoi (pink),maurizio vecchia,2012
 st. john cap ferrat,syn.: saint john cap ferrat,?,?,?
 st. julien,incarnata,caerulea,?,?
 st. paul,?,?,?,?
 st. rule,subpeltata,buonapartera,?,?
-strasshof,incarnata,caerulea,emil kugler,1992
 star of berlin,princeps,edmundoi,andreas bäurle,2015
 star of bristol,'Amethyst',caerulea 'Constance Eliott',john vanderplank,1984
 star of clevedon,'Amethyst',caerulea 'Constance Eliott',john vanderplank,1984
@@ -992,7 +999,10 @@ star of kingston,'Amethyst',caerulea 'Constance Eliott',john vanderplank,1984
 star of mikan,syn.: 'Lavender Lady',?,?,?
 star of rehavia,'Amethyst',?,sandra prais,2011
 star of surbiton,'Star Of Bristol','Purple Haze',myles irvine,2002
+starlight,alata,caerulea,stefan lang,2004
 stefania,kermesina,galbana,sebastien sabureau,?
+stefania mattiuzzo,?,?,?,?
+stefano capitanio,'Fata Confetto',edmundoi (pink),maurizio vecchia,2012
 steining,?,?,?,?
 stella de pezilla,'Murac',g'Alba'na,sebastien sabureau,2014
 stella di cremona,×violacea,caerulea 'Constance Eliott',maurizio vecchia,1997
@@ -1002,6 +1012,7 @@ stewardsiana,?,?,?,?
 stockumer rot,princeps,×decaisneana,bettina ulmer,2002
 stoutemeirss strain,selection of suberosa,?,?,?
 stradivarius,murucuja,cuprea,maurizio vecchia,2001
+strasshof,incarnata,caerulea,emil kugler,1992
 strawberry and cream,'Colet',amethystina,stefan lang,2007
 strawberry fields,mucronata,(princeps × princeps 'Buzios'), nick lambert,?
 striker,phoenicea,princeps,patrick worley / rick McCain,1996
@@ -1025,11 +1036,12 @@ susan 3,'Incense',cincinnata,jana heym,?
 susan brigham,tripartita var. mollissima,mixta,patrick worley,1984
 susan joy,piresae,?,ron boender,2007
 susanne,caerulea,'Star Of Clevedon',?,?
-sweet allure,(mixta × manicata),tripartita var. molissima,patrick worley,1987
-sweetleaf,vitifolia,incarnata,david costen,1995
 sweepur,selection of edulis,?,?,?
+sweet allure,(mixta × manicata),tripartita var. molissima,patrick worley,1987
 sweet surrender,garckei,kermesina,henk wouters,2005
+sweetleaf,vitifolia,incarnata,david costen,1995
 swingtime,pura vida,amethystina 'São Sebastião',henk wouters,2004
+são sebastião,selection of amethystina,?,?,?
 tacsonia lavender,invalid,?,?,?
 tahitian sunset,'Lambiekins',amethystina 'Minas Gerais',Nick Lambert / Julie Hoffman,0
 tangerine cream,apetala,jorullensis,patrick worley / rick McCain,1996
@@ -1042,14 +1054,15 @@ telstar,caerulea,(caerulea × princeps),?,?
 temptation,incarnata,cincinnata,roland fischer,1999
 tequila sunrise,'Kew Gardens',×violacea,david costen,?
 tereza,leopold Ševčík,1996,?,?
+terra dei miracoli,'Nereide','Essenza',stefania mattiuzzo,2022
 teta,incarnata,princeps,leopold Ševčík,1993
-theophiliana,?,?,?,?
 the spirit of the sea,×violacea,caerulea,fuchuan wu,2021
+theophiliana,?,?,?,?
 thessa,pura vida,garckei,?,?
 thuraia,kermesina,miersii,mauro peixoto,2004
 tiara,kermesina,sidifolia,masaki yamagata,2005
-tiger stripes,alata,quadrangularis,?,?
 tiffani,incarnata 'Lorayne',kermesina,roland fischer,2004
+tiger stripes,alata,quadrangularis,?,?
 timben,(capsularis 'Vanilla Cream' × conzattiana),citrina,julia k. böndel,2009
 tinalandia,edulis f. flavicarpa,incarnata,patrick worley,1993
 tineke,'Purple Passion',caerulea 'Constance Eliott',arjen lommen,?
@@ -1059,14 +1072,14 @@ trauf,complex hybrid of manicata; trisecta & umbilicata,?,?,?
 tresederi,caerulea,princeps,tresederss nurserie,1972
 triple l,(luzmarina × loefgrenii),?,shawn mattison,?
 tropical showers,'Blaumilch',gritensis,henk wouters,2005
-tucumanensis 'Alba',selection of P. tucumanensis,?,jana heym,?
 tuc-um-tuc,tucumanensis,(umbilicata × tucumanensis),Hal Love / Josh Krupnick,?
+tucumanensis 'Alba',selection of P. tucumanensis,?,jana heym,?
 turkey foot,syn.: tricuspis,?,?,?
 turkish delight,'Adularia',rovirosae,jim nevers,?
 twilight,'Byron Beauty','Temptation',raoul vranken,?
 twilight eclipse,'Byron Beauty','Temptation',raoul vranken,?
-twinkle star,('Star Of Mikan' × caerulea),caerulea,van der steeg,?
 twin star,×violacea,princeps,henk wouters,2004
+twinkle star,('Star Of Mikan' × caerulea),caerulea,van der steeg,?
 twisted sister,'Temptation','Byron Beauty',vicki townsend,2010
 ugly betty,edulis,incarnata,ethan nielsen,?
 uli,francois thuys,?,?,?
@@ -1093,7 +1106,6 @@ viden,princeps,caerulea,leopold Ševčík,?
 vilma,tucumanensis,princeps,leopold Ševčík,?
 vincent,mooreana,caerulea 'Pierre Pomie',nadine van rüschen,2020
 viola,syn.: 'Violetta',?,?,?
-×violacea,princeps / caerulea,caerulea / princeps,?,1824
 violet selection,selection of 'Amethyst',?,bettina ulmer,?
 violet star,×violacea,caerulea 'Constance Eliott',monika gottschalk,1991
 violetta,caerulea,oerstedii var. choconiana,leopold Ševčík,1999
@@ -1103,8 +1115,8 @@ vladena,cincinnata,caerulea,leopold Ševčík,1996
 vlasta,incarnata,princeps,leopold Ševčík,1993
 volcano,'Mary Jane',?,ron boender,2007
 voodoo,?,?,eric wortman / chrystal stone,?
-waterlemon,?,?,?,?
 warmlands,variety of quadrangularis,?,?,?
+waterlemon,?,?,?,?
 watermelon leaf,selection of cuspidifolia,?,?,?
 white lightning,probably protected,selection of caerulea,stephen and susan yandall,?
 white mirror,'White Wedding',caerulea 'Emil Kugler',henk wouters,?
@@ -1128,7 +1140,7 @@ xishuangbanna red,miniata,miniata,fuchuan wu,2019
 xiyuan red,miniata,'Lady Margaret',fuchuan wu,2021
 yakima,amethystina,loefgrenii 'Corupa',?,?
 yalinga,amethystina,loefgrenii 'Corupa',?,?
-yarnick,amethystina,loefgrenii 'Corupa',Francois Thuys
+yarnick,amethystina,loefgrenii 'Corupa',Francois Thuys,
 yee selection ,selection of edulis,?,?,?
 yellow seedlings,selection of edulis,?,?,?
 yola,wilgen 'Marie'ke,loefgrenii 'Corupa',?,?
@@ -1141,14 +1153,7 @@ ziying,serrulata,maliformis,fuchuan wu,2021
 zlata,'Sancap',citrina,leopold Ševčík,1996
 zofie,('Amethyst' × caerulea),gibertii,leopold Ševčík,?
 zophie,'Maurizio' vecchia,?,?,?
-12941,princeps,caerulea 'Grandiflora',?,?
-13971,coccinea / miniata,incarnata,?,?
-14971,coccinea / miniata,incarnata,?,?
-19932,coccinea / miniata,incarnata,?,?
-21932,'Viden',caerulea,?,?
-49961,princeps,caerulea,?,?
-61961,complex hybrid of princeps; tucumanensis & caerulea,?,?,?
-848506,'Amethyst',caerulea,john vanderplank,1984
-848512,'Amethyst',caerulea,john vanderplank,1984
-848533,'Amethyst',caerulea,john vanderplank,1984
-8687107,('Amethyst' × caerulea),caerulea,john vanderplank,1986
+decaisneana,alata,quadrangularis,planchon,1853
+exoniensis,antioquiensis,tripartita var. mollissima,?,1872
+violacea,princeps / caerulea,caerulea / princeps,?,1824
+
