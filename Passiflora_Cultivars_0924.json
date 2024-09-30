@@ -43,7 +43,7 @@
     },
     {
         "Cultivar Name": "aida",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "aff. oerstedii",
         "Breeder": "leopold Ševčík",
         "Year": "1998"
@@ -58,7 +58,7 @@
     {
         "Cultivar Name": "alabama",
         "Female Parent": "selection of incarnata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -79,13 +79,13 @@
     {
         "Cultivar Name": "albiflora",
         "Female Parent": "selection of foetida",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "albina",
-        "Female Parent": "(princeps x incarnata)",
+        "Female Parent": "(princeps × incarnata)",
         "Male Parent": "aff. oerstedii",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
@@ -107,7 +107,7 @@
     {
         "Cultivar Name": "alexandre d-j",
         "Female Parent": "'Pura Vida 1'",
-        "Male Parent": "lilac sunset",
+        "Male Parent": "'Lilac Sunset'",
         "Breeder": "sebastien sabureau",
         "Year": "2014"
     },
@@ -128,7 +128,7 @@
     {
         "Cultivar Name": "alice",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -142,9 +142,16 @@
     {
         "Cultivar Name": "alisus betica",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "pepa fernandez",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
+    },
+    {
+        "Cultivar Name": "allardii",
+        "Female Parent": "quadrangularis",
+        "Male Parent": "caerulea 'Constance Eliott'",
+        "Breeder": "E. J. Allard",
+        "Year": "1997"
     },
     {
         "Cultivar Name": "allegra",
@@ -176,7 +183,7 @@
     },
     {
         "Cultivar Name": "alyssa",
-        "Female Parent": "(('Jutta' x incarnata) x incarnata)",
+        "Female Parent": "(('Jutta' × incarnata) × incarnata)",
         "Male Parent": "incarnata",
         "Breeder": "josh krupnick",
         "Year": "2014"
@@ -240,7 +247,7 @@
     {
         "Cultivar Name": "amy",
         "Female Parent": "selection of trifasciata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "patrick worley",
         "Year": "1984"
     },
@@ -253,14 +260,14 @@
     },
     {
         "Cultivar Name": "andrea",
-        "Female Parent": "(decaisneana x aff. oerstedii)",
+        "Female Parent": "(×decaisneana × aff. oerstedii)",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
     },
     {
         "Cultivar Name": "andromeda",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea",
         "Breeder": "Eric Wortman / Crystal Stone",
         "Year": "2015"
@@ -277,11 +284,11 @@
         "Female Parent": "actinia",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "cor laurens",
-        "Year": null
+        "Year": "1992"
     },
     {
         "Cultivar Name": "angela",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
@@ -337,20 +344,20 @@
     },
     {
         "Cultivar Name": "anna",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "tucumanensis",
         "Breeder": "leopold Ševčík",
         "Year": "1993"
     },
     {
         "Cultivar Name": "anna christine",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea",
         "Breeder": "fraser wescott",
         "Year": null
     },
     {
-        "Cultivar Name": "anna-flora",
+        "Cultivar Name": "anna flora",
         "Female Parent": "'Pink Passion'",
         "Male Parent": "caerulea 'Avalanche'",
         "Breeder": "sebastien sabureau",
@@ -372,10 +379,10 @@
     },
     {
         "Cultivar Name": "annika",
-        "Female Parent": "pura vida",
+        "Female Parent": "'Pura Vida'",
         "Male Parent": "garckei",
-        "Breeder": "?",
-        "Year": null
+        "Breeder": "bettina ulmer",
+        "Year": "2010"
     },
     {
         "Cultivar Name": "araba fenice",
@@ -429,7 +436,7 @@
     {
         "Cultivar Name": "argentina",
         "Female Parent": "selection of P. caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -491,7 +498,7 @@
     },
     {
         "Cultivar Name": "aubergine",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "trialata",
         "Breeder": "ronald boender",
         "Year": null
@@ -499,14 +506,14 @@
     {
         "Cultivar Name": "australian purple",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "avalanche",
         "Female Parent": "selection of caerulea 'Constance Eliott'",
-        "Male Parent": "0",
+        "Male Parent": null,
         "Breeder": "cor laurens",
         "Year": "2002"
     },
@@ -527,7 +534,7 @@
     {
         "Cultivar Name": "bahia",
         "Female Parent": "selection of cincinnata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -561,7 +568,7 @@
     },
     {
         "Cultivar Name": "banna sky",
-        "Female Parent": "jolly jack",
+        "Female Parent": "'Jolly Jack'",
         "Male Parent": "caerulea",
         "Breeder": "fuchuan wu",
         "Year": "2021"
@@ -595,15 +602,22 @@
         "Year": "1996"
     },
     {
-        "Cultivar Name": "basing park hybrid",
-        "Female Parent": "george nicholson",
-        "Male Parent": "1901",
+        "Cultivar Name": "barra do oura",
+        "Female Parent": "selection of P. caerulea",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
+        "Cultivar Name": "basing park hybrid",
+        "Female Parent": "?",
+        "Male Parent": "?",
+        "Breeder": "george nicholson",
+        "Year": "1901"
+    },
+    {
         "Cultivar Name": "beaky",
-        "Female Parent": "violacea 'Victoria'",
+        "Female Parent": "×violacea 'Victoria'",
         "Male Parent": "caerulea",
         "Breeder": "c. beardshaw",
         "Year": null
@@ -635,6 +649,13 @@
         "Male Parent": "gibertii",
         "Breeder": "margarete m. souza",
         "Year": "2010"
+    },
+    {
+        "Cultivar Name": "belotii",
+        "Female Parent": "alata",
+        "Male Parent": "caerulea",
+        "Breeder": "?",
+        "Year": null
     },
     {
         "Cultivar Name": "berkeley",
@@ -673,8 +694,8 @@
     },
     {
         "Cultivar Name": "beyond purple",
-        "Female Parent": "(incarnata gator bride x cincinnata)",
-        "Male Parent": "('Inspiration' x 'Inspiration')",
+        "Female Parent": "(incarnata 'Gator Bride' × cincinnata)",
+        "Male Parent": "('Inspiration' × 'Inspiration')",
         "Breeder": "robert dostal",
         "Year": "2023"
     },
@@ -687,22 +708,22 @@
     },
     {
         "Cultivar Name": "bijou",
-        "Female Parent": "?",
-        "Male Parent": "?",
+        "Female Parent": "princeps",
+        "Male Parent": "kermesina",
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "black beauty",
         "Female Parent": "selection of edulis",
-        "Male Parent": "patrick worley",
+        "Male Parent": null,
         "Breeder": "1983",
         "Year": null
     },
     {
         "Cultivar Name": "black knight",
         "Female Parent": "selection of edulis",
-        "Male Parent": "patrick worley",
+        "Male Parent": null,
         "Breeder": "1993",
         "Year": null
     },
@@ -729,7 +750,7 @@
     },
     {
         "Cultivar Name": "blowback",
-        "Female Parent": "exoniensis",
+        "Female Parent": "×exoniensis",
         "Male Parent": "umbilicata",
         "Breeder": "henk wouters / david potter",
         "Year": "2007"
@@ -738,7 +759,7 @@
         "Cultivar Name": "blue bouquet",
         "Female Parent": "caerulea",
         "Male Parent": "'Lavender Lady'",
-        "Breeder": "richard mccain",
+        "Breeder": "richard McCain",
         "Year": "1989"
     },
     {
@@ -778,7 +799,7 @@
     },
     {
         "Cultivar Name": "blue circle",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "loefgrenii 'Corupa'",
         "Breeder": "marian oldenbuerger / artur müller",
         "Year": "2011"
@@ -884,7 +905,7 @@
     {
         "Cultivar Name": "blue velvet",
         "Female Parent": "selection of 'Incense'",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "roland fischer",
         "Year": null
     },
@@ -919,7 +940,7 @@
     {
         "Cultivar Name": "bolivia",
         "Female Parent": "selection of menispermifolia",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -932,14 +953,14 @@
     },
     {
         "Cultivar Name": "boomerang",
-        "Female Parent": "cuneata miguel molinari",
+        "Female Parent": "cuneata 'Miguel Molinari'",
         "Male Parent": "amalocarpa",
         "Breeder": "antony wren",
         "Year": "2004"
     },
     {
         "Cultivar Name": "boreal",
-        "Female Parent": "(decaisneana x caerulea)",
+        "Female Parent": "(×decaisneana × caerulea)",
         "Male Parent": "caerulea yanpas",
         "Breeder": "samuel ruiz aranda",
         "Year": "2017"
@@ -954,7 +975,7 @@
     {
         "Cultivar Name": "bountiful beauty",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -968,7 +989,7 @@
     {
         "Cultivar Name": "bowker",
         "Female Parent": "selection of vitifolia",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -982,14 +1003,14 @@
     {
         "Cultivar Name": "brazil / brazilie",
         "Female Parent": "selection of alata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "brazilian gold",
         "Female Parent": "selection of edulis f. flavicarpa",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1012,6 +1033,13 @@
         "Female Parent": "'Amethyst'",
         "Male Parent": "caerulea",
         "Breeder": "henk wouters",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "brownsville",
+        "Female Parent": "selection of P. foetida",
+        "Male Parent": null,
+        "Breeder": "?",
         "Year": null
     },
     {
@@ -1045,14 +1073,14 @@
     {
         "Cultivar Name": "butterscotch",
         "Female Parent": "selection of capsularis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "buzios",
         "Female Parent": "selection of princeps",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1094,7 +1122,7 @@
     {
         "Cultivar Name": "california",
         "Female Parent": "selection of manicata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1116,7 +1144,7 @@
         "Cultivar Name": "camelot",
         "Female Parent": "semiciliosa",
         "Male Parent": "populifolia",
-        "Breeder": "rob mcphail",
+        "Breeder": "rob McPhail",
         "Year": "2022"
     },
     {
@@ -1136,7 +1164,7 @@
     {
         "Cultivar Name": "cantonspark",
         "Female Parent": "selection of manicata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1178,7 +1206,7 @@
     {
         "Cultivar Name": "caravaglia",
         "Female Parent": "selection of alata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1199,7 +1227,7 @@
     {
         "Cultivar Name": "cardoso moreira",
         "Female Parent": "selection of amethystina",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1213,7 +1241,7 @@
     {
         "Cultivar Name": "carioca",
         "Female Parent": "selection of princeps",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "david costen",
         "Year": "2006"
     },
@@ -1254,14 +1282,14 @@
     },
     {
         "Cultivar Name": "cassiopeia",
-        "Female Parent": "(loefgrenii x caerulea)",
+        "Female Parent": "(loefgrenii × caerulea)",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "Eric Wortman / Crystal Stone",
         "Year": null
     },
     {
         "Cultivar Name": "castro street",
-        "Female Parent": "exoniensis",
+        "Female Parent": "×exoniensis",
         "Male Parent": "parritae",
         "Breeder": "carlos ibarra",
         "Year": null
@@ -1270,19 +1298,19 @@
         "Cultivar Name": "catherine howard",
         "Female Parent": "cincinnata",
         "Male Parent": "caerulea",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1984"
     },
     {
         "Cultivar Name": "cecilie",
-        "Female Parent": "(caerulea x aff. oerstedii)",
+        "Female Parent": "(caerulea × aff. oerstedii)",
         "Male Parent": "aff. oerstedii",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
     },
     {
         "Cultivar Name": "celia costen",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "david costen",
         "Year": "1995"
@@ -1304,28 +1332,28 @@
     {
         "Cultivar Name": "charlotte corday",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "chave",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea",
         "Breeder": "maite chico padron",
         "Year": "2007"
     },
     {
         "Cultivar Name": "cherries jubilee",
-        "Female Parent": "(mixta x manicata)",
+        "Female Parent": "(mixta × manicata)",
         "Male Parent": "tripartita var. molissima",
-        "Breeder": "richard mccain",
+        "Breeder": "richard McCain",
         "Year": "1992"
     },
     {
         "Cultivar Name": "cherry tart",
         "Female Parent": "cuprea",
-        "Male Parent": "(yucatanensis x biflora)",
+        "Male Parent": "(yucatanensis × biflora)",
         "Breeder": "jim nevers",
         "Year": null
     },
@@ -1346,14 +1374,21 @@
     {
         "Cultivar Name": "china blue",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
+        "Breeder": "?",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "china select",
+        "Female Parent": "selection of P. edulis",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "chinensis",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1367,13 +1402,13 @@
     {
         "Cultivar Name": "christine murray",
         "Female Parent": "caerulea",
-        "Male Parent": "decaisneana",
+        "Male Parent": "×decaisneana",
         "Breeder": "martin murray",
         "Year": "2005"
     },
     {
         "Cultivar Name": "cielo azul",
-        "Female Parent": "(loefgrenii x caerulea)",
+        "Female Parent": "(loefgrenii × caerulea)",
         "Male Parent": "caerulea",
         "Breeder": "jana heym",
         "Year": null
@@ -1401,7 +1436,7 @@
     },
     {
         "Cultivar Name": "clear sky",
-        "Female Parent": "((amethystina x caerulea) x caerulea)",
+        "Female Parent": "((amethystina × caerulea) × caerulea)",
         "Male Parent": "caerulea",
         "Breeder": "roland fischer",
         "Year": null
@@ -1422,14 +1457,14 @@
     },
     {
         "Cultivar Name": "clowesii / clowesiana",
-        "Female Parent": "van houtte",
+        "Female Parent": "?",
         "Male Parent": "?",
-        "Breeder": "?",
+        "Breeder": "van houtte",
         "Year": null
     },
     {
         "Cultivar Name": "coocoochee",
-        "Female Parent": "('Amethyst' x princeps)",
+        "Female Parent": "('Amethyst' × princeps)",
         "Male Parent": "gritensis",
         "Breeder": "roland fischer",
         "Year": null
@@ -1458,7 +1493,7 @@
     {
         "Cultivar Name": "collien",
         "Female Parent": "'Celine'",
-        "Male Parent": "('Violet Selection' x caerulea 'Constance Eliott')",
+        "Male Parent": "('Violet Selection' × caerulea 'Constance Eliott')",
         "Breeder": "nadine van rüschen",
         "Year": "2020"
     },
@@ -1479,7 +1514,7 @@
     {
         "Cultivar Name": "common pruple",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1507,7 +1542,7 @@
     {
         "Cultivar Name": "comte woronzoff",
         "Female Parent": "selection of rad'Diana'",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1520,29 +1555,36 @@
     },
     {
         "Cultivar Name": "comtesse giuglini",
-        "Female Parent": "1876",
+        "Female Parent": "?",
         "Male Parent": "?",
-        "Breeder": "?",
-        "Year": null
+        "Breeder": "T. Bainers",
+        "Year": "1876"
     },
     {
         "Cultivar Name": "concordia",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "christian feuillet",
+        "Male Parent": null,
         "Breeder": "1991",
         "Year": null
+    },
+    {
+        "Cultivar Name": "Connie",
+        "Female Parent": "?",
+        "Male Parent": "?",
+        "Breeder": "frank moser",
+        "Year": "2000"
     },
     {
         "Cultivar Name": "connor cailean",
         "Female Parent": "loefgrenii 'Corupa'",
         "Male Parent": "caerulea",
-        "Breeder": "robert mcphail",
+        "Breeder": "robert McPhail",
         "Year": "2008"
     },
     {
         "Cultivar Name": "constance eliott",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "masters",
+        "Male Parent": null,
         "Breeder": "1884",
         "Year": null
     },
@@ -1569,7 +1611,7 @@
     },
     {
         "Cultivar Name": "coral glow",
-        "Female Parent": "(tripartita var. mollissima x manicata)",
+        "Female Parent": "(tripartita var. mollissima × manicata)",
         "Male Parent": "jamesonii (?)",
         "Breeder": "patrick worley",
         "Year": "1983"
@@ -1577,7 +1619,7 @@
     {
         "Cultivar Name": "coral sea",
         "Female Parent": "manicata",
-        "Male Parent": "(tripartita var. mollissima x jamesonii)  (?)",
+        "Male Parent": "(tripartita var. mollissima × jamesonii)  (?)",
         "Breeder": "patrick worley",
         "Year": "1983"
     },
@@ -1612,14 +1654,14 @@
     {
         "Cultivar Name": "corumba de goias",
         "Female Parent": "selection of amethystina",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "corupa",
         "Female Parent": "selection of loefgrenii",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1647,7 +1689,7 @@
     {
         "Cultivar Name": "crackerjack",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1660,10 +1702,17 @@
     },
     {
         "Cultivar Name": "crimson tears",
-        "Female Parent": "(('Amethyst' x princeps) x gritensis)",
+        "Female Parent": "(('Amethyst' × princeps) × gritensis)",
         "Male Parent": "amethystina",
         "Breeder": "roland fischer",
         "Year": "2002"
+    },
+    {
+        "Cultivar Name": "cristie / cristy",
+        "Female Parent": "'Morning Star'",
+        "Male Parent": "loefgrenii",
+        "Breeder": "henk wouters",
+        "Year": null
     },
     {
         "Cultivar Name": "crown princess",
@@ -1675,7 +1724,7 @@
     {
         "Cultivar Name": "cupids blush",
         "Female Parent": "'Kew Gardens'",
-        "Male Parent": "violacea",
+        "Male Parent": "×violacea",
         "Breeder": "david costen",
         "Year": "2005"
     },
@@ -1731,7 +1780,7 @@
     {
         "Cultivar Name": "damsel's delight",
         "Female Parent": "syn.: 'Silly Cow'",
-        "Male Parent": "?",
+        "Male Parent": "null",
         "Breeder": "myles irvine",
         "Year": null
     },
@@ -1744,7 +1793,7 @@
     },
     {
         "Cultivar Name": "daniela",
-        "Female Parent": "(tucumanensis x princeps)",
+        "Female Parent": "(tucumanensis × princeps)",
         "Male Parent": "caerulea",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
@@ -1771,9 +1820,16 @@
         "Year": null
     },
     {
+        "Cultivar Name": "dark pollen",
+        "Female Parent": "selection of P. cincinnata",
+        "Male Parent": null,
+        "Breeder": "?",
+        "Year": null
+    },
+    {
         "Cultivar Name": "dark purple",
         "Female Parent": "selection of incarnata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -1827,7 +1883,7 @@
         "Year": "1999"
     },
     {
-        "Cultivar Name": "decaisneana",
+        "Cultivar Name": "×decaisneana",
         "Female Parent": "alata",
         "Male Parent": "quadrangularis",
         "Breeder": "planchon",
@@ -1835,7 +1891,7 @@
     },
     {
         "Cultivar Name": "dedorina",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea",
         "Breeder": "silvan kamstra",
         "Year": null
@@ -1858,13 +1914,13 @@
         "Cultivar Name": "delicate dancer",
         "Female Parent": "oerstedii",
         "Male Parent": "caerulea",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1988"
     },
     {
         "Cultivar Name": "denisa",
         "Female Parent": "incarnata",
-        "Male Parent": "(tucumanensis x princeps)",
+        "Male Parent": "(tucumanensis × princeps)",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
     },
@@ -1884,7 +1940,7 @@
     },
     {
         "Cultivar Name": "diane king",
-        "Female Parent": "violacea 'Victoria'",
+        "Female Parent": "×violacea 'Victoria'",
         "Male Parent": "loefgrenii 'Corupa'",
         "Breeder": "les king",
         "Year": "2005"
@@ -1905,7 +1961,7 @@
     },
     {
         "Cultivar Name": "divertido",
-        "Female Parent": "(tripartita var. mollissima x mixta)",
+        "Female Parent": "(tripartita var. mollissima × mixta)",
         "Male Parent": "luzmarina",
         "Breeder": "henk wouters",
         "Year": "2007"
@@ -1932,18 +1988,11 @@
         "Year": null
     },
     {
-        "Cultivar Name": "dominik",
-        "Female Parent": "citrina",
-        "Male Parent": "?",
-        "Breeder": "?",
-        "Year": null
-    },
-    {
         "Cultivar Name": "donna brigham",
         "Female Parent": "?",
         "Male Parent": "?",
         "Breeder": "patrick worley",
-        "Year": null
+        "Year": "1996"
     },
     {
         "Cultivar Name": "doris",
@@ -1974,6 +2023,13 @@
         "Year": null
     },
     {
+        "Cultivar Name": "Dr. Wittmach",
+        "Female Parent": "princeps",
+        "Male Parent": "kermesina (?)",
+        "Breeder": "Haage & Schmidt",
+        "Year": "1883"
+    },
+    {
         "Cultivar Name": "duo thone",
         "Female Parent": "?",
         "Male Parent": "?",
@@ -1982,7 +2038,7 @@
     },
     {
         "Cultivar Name": "eclipse",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea",
         "Breeder": "fraser wescott",
         "Year": null
@@ -1990,7 +2046,7 @@
     {
         "Cultivar Name": "ecuador lace",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2004,7 +2060,7 @@
     {
         "Cultivar Name": "edgehill",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2038,16 +2094,9 @@
     },
     {
         "Cultivar Name": "ek2",
-        "Female Parent": "violacea 'Victoria'",
+        "Female Parent": "×violacea 'Victoria'",
         "Male Parent": "caerulea",
         "Breeder": "silvan kamstra",
-        "Year": null
-    },
-    {
-        "Cultivar Name": "elagans",
-        "Female Parent": "invalid",
-        "Male Parent": "?",
-        "Breeder": "?",
         "Year": null
     },
     {
@@ -2060,7 +2109,7 @@
     {
         "Cultivar Name": "el indio",
         "Female Parent": "selection of trifasciata",
-        "Male Parent": "'Michael' schwerdtfeger",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2081,7 +2130,7 @@
     {
         "Cultivar Name": "el oro",
         "Female Parent": "selection of punctata",
-        "Male Parent": "'Michael' schwerdtfeger",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2123,7 +2172,7 @@
     {
         "Cultivar Name": "emil kugler",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "roland fischer",
+        "Male Parent": null,
         "Breeder": "2000",
         "Year": null
     },
@@ -2136,10 +2185,10 @@
     },
     {
         "Cultivar Name": "emina",
-        "Female Parent": "?",
-        "Male Parent": "?",
-        "Breeder": "k. delic",
-        "Year": null
+        "Female Parent": "('Incense' x incarnata)",
+        "Male Parent": "caerulea",
+        "Breeder": "Kemal Theo Delic",
+        "Year": "2001"
     },
     {
         "Cultivar Name": "emma",
@@ -2164,14 +2213,14 @@
     },
     {
         "Cultivar Name": "enigma",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "alata",
         "Breeder": "john vanderplank",
         "Year": "1996"
     },
     {
         "Cultivar Name": "erik / eric",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "caerulea",
         "Breeder": "van der steeg",
         "Year": null
@@ -2193,7 +2242,7 @@
     {
         "Cultivar Name": "escobar",
         "Female Parent": "selection of manicata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2213,7 +2262,7 @@
     },
     {
         "Cultivar Name": "essenza",
-        "Female Parent": "('Temptation' x 'Temptation')",
+        "Female Parent": "('Temptation' × 'Temptation')",
         "Male Parent": "'Inspiration'",
         "Breeder": "stefania mattiuzzo",
         "Year": null
@@ -2241,7 +2290,7 @@
     },
     {
         "Cultivar Name": "evatoria",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "cor laurens",
         "Year": "1992"
@@ -2255,7 +2304,7 @@
     },
     {
         "Cultivar Name": "evelyne",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "caerulea",
         "Breeder": "van der steeg",
         "Year": null
@@ -2289,11 +2338,11 @@
         "Year": null
     },
     {
-        "Cultivar Name": "exoniensis",
-        "Female Parent": "?",
-        "Male Parent": "?",
+        "Cultivar Name": "×exoniensis",
+        "Female Parent": "antioquiensis",
+        "Male Parent": "tripartita var. mollissima",
         "Breeder": "?",
-        "Year": null
+        "Year": "1872"
     },
     {
         "Cultivar Name": "eye of the storm",
@@ -2332,7 +2381,7 @@
     },
     {
         "Cultivar Name": "fantasma",
-        "Female Parent": "exoniensis",
+        "Female Parent": "×exoniensis",
         "Male Parent": "umbilicata",
         "Breeder": "henk wouters",
         "Year": "2009"
@@ -2488,7 +2537,7 @@
         "Cultivar Name": "floral fountain",
         "Female Parent": "phoenicea",
         "Male Parent": "actinia",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1989"
     },
     {
@@ -2529,7 +2578,7 @@
     {
         "Cultivar Name": "florida",
         "Female Parent": "selection of edulis",
-        "Male Parent": "klaas kingma",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2549,7 +2598,7 @@
     },
     {
         "Cultivar Name": "fourth of july",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "kermesina",
         "Breeder": "henk wouters",
         "Year": "2005"
@@ -2557,14 +2606,14 @@
     {
         "Cultivar Name": "fragrance",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "fragrans",
         "Female Parent": "selection of alata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2584,8 +2633,8 @@
     },
     {
         "Cultivar Name": "francois thuys",
-        "Female Parent": "?",
-        "Male Parent": "?",
+        "Female Parent": "princeps",
+        "Male Parent": "sprucei",
         "Breeder": "?",
         "Year": null
     },
@@ -2600,7 +2649,7 @@
         "Cultivar Name": "freckle face",
         "Female Parent": "princeps",
         "Male Parent": "cincinnata",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1990"
     },
     {
@@ -2614,34 +2663,34 @@
         "Cultivar Name": "frits",
         "Female Parent": "princeps",
         "Male Parent": "caerulea",
-        "Breeder": "?",
-        "Year": null
+        "Breeder": "M. G. van der Steeg",
+        "Year": "1998"
     },
     {
         "Cultivar Name": "frizzle king",
         "Female Parent": "selection of cincinnata",
-        "Male Parent": "cor laurens",
+        "Male Parent": null,
         "Breeder": "2000",
         "Year": null
     },
     {
         "Cultivar Name": "frizzle queen",
         "Female Parent": "selection of cincinnata",
-        "Male Parent": "cor laurens",
+        "Male Parent": null,
         "Breeder": "2000",
         "Year": null
     },
     {
         "Cultivar Name": "frosty",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "fructifera",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2669,7 +2718,7 @@
     {
         "Cultivar Name": "gala",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "axel frank",
+        "Male Parent": null,
         "Breeder": "2004",
         "Year": null
     },
@@ -2677,13 +2726,13 @@
         "Cultivar Name": "galaxy",
         "Female Parent": "princeps",
         "Male Parent": "cincinnata",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1990"
     },
     {
         "Cultivar Name": "galea",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2725,7 +2774,7 @@
     {
         "Cultivar Name": "gillian wren",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "'Gillian Wren'",
+        "Male Parent": null,
         "Breeder": "2002",
         "Year": null
     },
@@ -2753,7 +2802,7 @@
     {
         "Cultivar Name": "globe",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2766,7 +2815,7 @@
     },
     {
         "Cultivar Name": "gocce di cielo",
-        "Female Parent": "violacea 'Victoria'",
+        "Female Parent": "×violacea 'Victoria'",
         "Male Parent": "caerulea",
         "Breeder": "stefania mattiuzzo",
         "Year": "2017"
@@ -2774,21 +2823,21 @@
     {
         "Cultivar Name": "gold star / golden star",
         "Female Parent": "selection of edulis",
-        "Male Parent": "'Emil Kugler'",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "golden gate / san francisco",
         "Female Parent": "selection of mixta",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "golden giant",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2809,14 +2858,14 @@
     {
         "Cultivar Name": "golden nugget",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "golden star",
         "Female Parent": "selection of edulis",
-        "Male Parent": "'Emil Kugler'",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2928,14 +2977,14 @@
     {
         "Cultivar Name": "hartwissiana",
         "Female Parent": "selection of caerulea (white)",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "hawaiian yellow",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -2977,23 +3026,23 @@
     {
         "Cultivar Name": "herman paraguay",
         "Female Parent": "selection of cincinnata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "hermin",
         "Female Parent": "caerulea",
-        "Male Parent": "decaisneana",
+        "Male Parent": "×decaisneana",
         "Breeder": "van der steeg",
         "Year": null
     },
     {
         "Cultivar Name": "hertensprong",
-        "Female Parent": "?",
-        "Male Parent": "?",
-        "Breeder": "?",
-        "Year": null
+        "Female Parent": "'Star of Clevedon'",
+        "Male Parent": "actinia",
+        "Breeder": "M. G. van der Steeg",
+        "Year": "1999"
     },
     {
         "Cultivar Name": "hetty nicolas",
@@ -3067,7 +3116,7 @@
     },
     {
         "Cultivar Name": "ida",
-        "Female Parent": "(caerulea aff. x oerstedii)",
+        "Female Parent": "(caerulea aff. × oerstedii)",
         "Male Parent": "aff. oerstedii",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
@@ -3144,7 +3193,7 @@
     },
     {
         "Cultivar Name": "innesii",
-        "Female Parent": "syn.: decaisneana",
+        "Female Parent": "syn.: ×decaisneana",
         "Male Parent": "?",
         "Breeder": "w.p.m. innes",
         "Year": "1873"
@@ -3152,7 +3201,7 @@
     {
         "Cultivar Name": "innocence",
         "Female Parent": "selection of mathewsii",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -3166,7 +3215,7 @@
     {
         "Cultivar Name": "inspiration",
         "Female Parent": "tetraploid selection of 'Incense'",
-        "Male Parent": "roland fischer",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -3180,7 +3229,7 @@
     {
         "Cultivar Name": "intrigue",
         "Female Parent": "ampullacea",
-        "Male Parent": "(tripartita var. mollissima x mixta)",
+        "Male Parent": "(tripartita var. mollissima × mixta)",
         "Breeder": "patrick worley",
         "Year": "1996"
     },
@@ -3194,7 +3243,7 @@
     {
         "Cultivar Name": "iporanga",
         "Female Parent": "selection of loefgrenii",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -3214,7 +3263,7 @@
     },
     {
         "Cultivar Name": "iridescence",
-        "Female Parent": "(('Incense' x 'Byron Beauty') x incarnata 'Alba')",
+        "Female Parent": "(('Incense' × 'Byron Beauty') × incarnata 'Alba')",
         "Male Parent": "incarnata",
         "Breeder": "hal love",
         "Year": "2015"
@@ -3229,7 +3278,7 @@
     {
         "Cultivar Name": "irma",
         "Female Parent": "'Amethyst'",
-        "Male Parent": "(incarnata x princeps)",
+        "Male Parent": "(incarnata × princeps)",
         "Breeder": "leopold Ševčík",
         "Year": null
     },
@@ -3249,10 +3298,10 @@
     },
     {
         "Cultivar Name": "ivona",
-        "Female Parent": "?",
+        "Female Parent": "'Lavender Lady'",
         "Male Parent": "?",
-        "Breeder": "?",
-        "Year": null
+        "Breeder": "Leopold Ševčic",
+        "Year": "1999"
     },
     {
         "Cultivar Name": "ivy waves",
@@ -3292,7 +3341,7 @@
     {
         "Cultivar Name": "janus",
         "Female Parent": "amethystina 'Minas Gerais'",
-        "Male Parent": "(loefgrenii x caerulea)",
+        "Male Parent": "(loefgrenii × caerulea)",
         "Breeder": "crystal stone / eric wortman",
         "Year": "2011"
     },
@@ -3313,7 +3362,7 @@
     {
         "Cultivar Name": "java",
         "Female Parent": "selection of laurifolia",
-        "Male Parent": "robert 'Knight' / c.w. howell",
+        "Male Parent": null,
         "Breeder": "1989",
         "Year": null
     },
@@ -3424,16 +3473,16 @@
     },
     {
         "Cultivar Name": "jolana",
-        "Female Parent": "(incarnata x princeps)",
+        "Female Parent": "(incarnata × princeps)",
         "Male Parent": "caerulea",
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "jolie",
-        "Female Parent": "?",
-        "Male Parent": "?",
-        "Breeder": "?",
+        "Female Parent": "caerulea 'Merryon'",
+        "Male Parent": "princeps",
+        "Breeder": "Hendrik Jan Gommer",
         "Year": null
     },
     {
@@ -3488,8 +3537,8 @@
     {
         "Cultivar Name": "kahuna",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
-        "Breeder": "patrick worley rick mccain",
+        "Male Parent": null,
+        "Breeder": "patrick worley rick McCain",
         "Year": null
     },
     {
@@ -3509,7 +3558,7 @@
     {
         "Cultivar Name": "kangason",
         "Female Parent": "selection of 'Kanga'",
-        "Male Parent": "david l. evans",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -3531,7 +3580,7 @@
         "Cultivar Name": "karen jacobsen",
         "Female Parent": "incarnata",
         "Male Parent": "lehmanii",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1992"
     },
     {
@@ -3561,6 +3610,13 @@
         "Male Parent": "quadrangularis",
         "Breeder": "leopold Ševčík",
         "Year": "1993"
+    },
+    {
+        "Cultivar Name": "kathleentje",
+        "Female Parent": "?",
+        "Male Parent": "?",
+        "Breeder": "francois thuys",
+        "Year": null
     },
     {
         "Cultivar Name": "kazi",
@@ -3606,7 +3662,7 @@
     },
     {
         "Cultivar Name": "klara",
-        "Female Parent": "(tucumanensis x princeps)",
+        "Female Parent": "(tucumanensis × princeps)",
         "Male Parent": "caerulea 'Grandiflora'",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
@@ -3628,20 +3684,20 @@
     {
         "Cultivar Name": "knight",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "kudos",
         "Female Parent": "'Kew Gardens'",
-        "Male Parent": "violacea",
+        "Male Parent": "×violacea",
         "Breeder": "david costen",
         "Year": null
     },
     {
         "Cultivar Name": "kunhuta",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "caerulea",
         "Breeder": "leopold Ševčík",
         "Year": null
@@ -3672,7 +3728,7 @@
         "Female Parent": "umbilicata",
         "Male Parent": "oerstedii var. choconiana",
         "Breeder": "roland fischer",
-        "Year": null
+        "Year": "2000"
     },
     {
         "Cultivar Name": "la brunella",
@@ -3684,7 +3740,7 @@
     {
         "Cultivar Name": "lacey",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -3713,7 +3769,7 @@
         "Cultivar Name": "lady cornelia everdina",
         "Female Parent": "garckei",
         "Male Parent": "caerulea 'Avalanche'",
-        "Breeder": "rob mcphail",
+        "Breeder": "rob McPhail",
         "Year": "2021"
     },
     {
@@ -3796,14 +3852,14 @@
     {
         "Cultivar Name": "lanphiers stermer",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "lapis lazuli",
         "Female Parent": "selection of p.caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -3817,7 +3873,7 @@
     {
         "Cultivar Name": "laranja",
         "Female Parent": "selection of P. parritae",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "carlos rendon",
         "Year": null
     },
@@ -3845,7 +3901,7 @@
     {
         "Cultivar Name": "latifolia",
         "Female Parent": "invalid",
-        "Male Parent": "syn.: decaisneana",
+        "Male Parent": "syn.: ×decaisneana",
         "Breeder": "?",
         "Year": null
     },
@@ -3858,17 +3914,17 @@
     },
     {
         "Cultivar Name": "laura",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "leopold Ševčík",
         "Year": "1998"
     },
     {
         "Cultivar Name": "laura torres",
-        "Female Parent": "exoniensis",
+        "Female Parent": "×exoniensis",
         "Male Parent": "luzmarina",
         "Breeder": "carlos ibarra",
-        "Year": null
+        "Year": "2015"
     },
     {
         "Cultivar Name": "laurens laurens",
@@ -3901,7 +3957,7 @@
     {
         "Cultivar Name": "lead hill",
         "Female Parent": "selection of P. incarnata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -3950,7 +4006,7 @@
     {
         "Cultivar Name": "light blue",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -3964,7 +4020,7 @@
     {
         "Cultivar Name": "lilac lady",
         "Female Parent": "caerulea",
-        "Male Parent": "violacea",
+        "Male Parent": "×violacea",
         "Breeder": "tresederss nurserie",
         "Year": "1972"
     },
@@ -3990,8 +4046,8 @@
         "Year": "1991"
     },
     {
-        "Cultivar Name": "linnie ii",
-        "Female Parent": "'Scarlet' flame",
+        "Cultivar Name": "linnie II",
+        "Female Parent": "'Scarlet Flame'",
         "Male Parent": "incarnata 'Alba'",
         "Breeder": "bob holzinger",
         "Year": "2018"
@@ -4006,7 +4062,7 @@
     {
         "Cultivar Name": "linz red ribbon",
         "Female Parent": "princeps",
-        "Male Parent": "decaisneana",
+        "Male Parent": "×decaisneana",
         "Breeder": "johann r. kienbichl",
         "Year": "2004"
     },
@@ -4027,13 +4083,13 @@
     {
         "Cultivar Name": "little coral",
         "Female Parent": "selection of jamesonii",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "little dot beardshaw",
-        "Female Parent": "('Amethyst' x caerulea)",
+        "Female Parent": "('Amethyst' × caerulea)",
         "Male Parent": "caerulea",
         "Breeder": "colin beardshaw",
         "Year": "2005"
@@ -4063,7 +4119,7 @@
         "Cultivar Name": "lobo",
         "Female Parent": "apetala",
         "Male Parent": "ornithoura",
-        "Breeder": "patrick worley / rick mccain",
+        "Breeder": "patrick worley / rick McCain",
         "Year": null
     },
     {
@@ -4074,9 +4130,16 @@
         "Year": "1994"
     },
     {
+        "Cultivar Name": "long guy",
+        "Female Parent": "selection of P. edulis",
+        "Male Parent": null,
+        "Breeder": "?",
+        "Year": null
+    },
+    {
         "Cultivar Name": "lorayne",
         "Female Parent": "selection of incarnata",
-        "Male Parent": "don martinson",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4124,7 +4187,7 @@
     },
     {
         "Cultivar Name": "lucia",
-        "Female Parent": "('Amethyst Beauty' x eichleriana)",
+        "Female Parent": "('Amethyst Beauty' × eichleriana)",
         "Male Parent": "?",
         "Breeder": "leopold Ševčík",
         "Year": "1999"
@@ -4152,7 +4215,7 @@
     },
     {
         "Cultivar Name": "lucy o",
-        "Female Parent": "('Amethyst' x caerulea)",
+        "Female Parent": "('Amethyst' × caerulea)",
         "Male Parent": "'Purple Haze'",
         "Breeder": "christian offert",
         "Year": "2009"
@@ -4179,7 +4242,7 @@
         "Year": "2023"
     },
     {
-        "Cultivar Name": "lukas",
+        "Cultivar Name": "lukas / lucas",
         "Female Parent": "gritensis",
         "Male Parent": "tucumanensis",
         "Breeder": "francois thuys",
@@ -4209,7 +4272,7 @@
     {
         "Cultivar Name": "macae de cima",
         "Female Parent": "selection of amethystina",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4258,7 +4321,7 @@
     {
         "Cultivar Name": "madeira",
         "Female Parent": "selection of manicata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4328,7 +4391,7 @@
     {
         "Cultivar Name": "majorca",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4337,7 +4400,7 @@
         "Female Parent": "'Amethyst'",
         "Male Parent": "caerulea",
         "Breeder": "franz dülli",
-        "Year": null
+        "Year": "2015"
     },
     {
         "Cultivar Name": "maloya",
@@ -4349,7 +4412,7 @@
     {
         "Cultivar Name": "mammoth purple granadilla",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4426,7 +4489,7 @@
     {
         "Cultivar Name": "marcela",
         "Female Parent": "incarnata",
-        "Male Parent": "(incarnata x princeps)",
+        "Male Parent": "(incarnata × princeps)",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
     },
@@ -4441,7 +4504,7 @@
         "Cultivar Name": "margaret my love",
         "Female Parent": "cocuyensis",
         "Male Parent": "'Connor Cailean'",
-        "Breeder": "rob mcphail",
+        "Breeder": "rob McPhail",
         "Year": "2023"
     },
     {
@@ -4468,7 +4531,7 @@
     {
         "Cultivar Name": "maria rosa",
         "Female Parent": "selection of sanguinolenta",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4489,13 +4552,13 @@
     {
         "Cultivar Name": "marice",
         "Female Parent": "selection of amethystina",
-        "Male Parent": "axel frank",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "marie",
-        "Female Parent": "((amethystina x caerulea) x (amethystina x caerulea))",
+        "Female Parent": "((amethystina × caerulea) × (amethystina × caerulea))",
         "Male Parent": "caerulea",
         "Breeder": "patrick worley",
         "Year": "1993"
@@ -4509,7 +4572,7 @@
     },
     {
         "Cultivar Name": "marijke",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "caerulea",
         "Breeder": "van der steeg",
         "Year": null
@@ -4523,7 +4586,7 @@
     },
     {
         "Cultivar Name": "marisa",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "frank haverkamp",
         "Year": "2007"
@@ -4552,7 +4615,7 @@
     {
         "Cultivar Name": "marmorata",
         "Female Parent": "selection of organensis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4594,7 +4657,7 @@
     {
         "Cultivar Name": "mary rose",
         "Female Parent": "selection of sanguinolenta",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4622,7 +4685,7 @@
     {
         "Cultivar Name": "mauro peixoto",
         "Female Parent": "selection of eichleriana",
-        "Male Parent": "axel frank",
+        "Male Parent": null,
         "Breeder": "2004",
         "Year": null
     },
@@ -4637,7 +4700,7 @@
         "Cultivar Name": "mauve madness",
         "Female Parent": "oerstedii",
         "Male Parent": "caerulea",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1996"
     },
     {
@@ -4657,7 +4720,7 @@
     {
         "Cultivar Name": "mayana",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4669,9 +4732,9 @@
         "Year": null
     },
     {
-        "Cultivar Name": "mccain",
+        "Cultivar Name": "McCain",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4679,20 +4742,27 @@
         "Cultivar Name": "medallion",
         "Female Parent": "incarnata",
         "Male Parent": "actinia",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1990"
     },
     {
         "Cultivar Name": "medium blue",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
+        "Breeder": "?",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "mekan",
+        "Female Parent": "selection of P. amethystina",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "merryon",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4713,7 +4783,7 @@
     {
         "Cultivar Name": "michela vagli",
         "Female Parent": "'Star Of Clevedon'",
-        "Male Parent": "violacea",
+        "Male Parent": "×violacea",
         "Breeder": "franco vagli",
         "Year": "2021"
     },
@@ -4728,7 +4798,7 @@
         "Cultivar Name": "michelle noble",
         "Female Parent": "mixta",
         "Male Parent": "tripartita var. molissima",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1984"
     },
     {
@@ -4762,7 +4832,7 @@
     {
         "Cultivar Name": "minas gerais",
         "Female Parent": "selection of amethystina",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4776,14 +4846,14 @@
     {
         "Cultivar Name": "minimaflora",
         "Female Parent": "selection of suberosa",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "mirabella",
         "Female Parent": "selection of P. incarnata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4796,7 +4866,7 @@
     },
     {
         "Cultivar Name": "miranda",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "caerulea",
         "Breeder": "van der steeg",
         "Year": null
@@ -4838,8 +4908,8 @@
     },
     {
         "Cultivar Name": "monika fischer",
-        "Female Parent": "(incarnata x amethystina)",
-        "Male Parent": "(kermesina x caerulea)",
+        "Female Parent": "(incarnata × amethystina)",
+        "Male Parent": "(kermesina × caerulea)",
         "Breeder": "roland fischer",
         "Year": null
     },
@@ -4859,7 +4929,7 @@
     },
     {
         "Cultivar Name": "monique klemann",
-        "Female Parent": "decaisneana",
+        "Female Parent": "×decaisneana",
         "Male Parent": "caerulea",
         "Breeder": "cor laurens",
         "Year": null
@@ -4888,14 +4958,14 @@
     {
         "Cultivar Name": "mums gate",
         "Female Parent": "selection of jamesonii",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "muico",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4924,7 +4994,7 @@
         "Cultivar Name": "mystery",
         "Female Parent": "tripartita var. mollissima",
         "Male Parent": "ampullacea",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1994"
     },
     {
@@ -4937,7 +5007,7 @@
     {
         "Cultivar Name": "nancy garrison",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4950,7 +5020,7 @@
     },
     {
         "Cultivar Name": "nautilus",
-        "Female Parent": "exoniensis",
+        "Female Parent": "×exoniensis",
         "Male Parent": "umbilicata",
         "Breeder": "carlos ibarra",
         "Year": null
@@ -4959,13 +5029,13 @@
         "Cultivar Name": "nebula",
         "Female Parent": "incarnata",
         "Male Parent": "serratodigitata",
-        "Breeder": "richard mccain",
+        "Breeder": "richard McCain",
         "Year": "1993"
     },
     {
         "Cultivar Name": "ned kelly",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -4979,7 +5049,7 @@
     {
         "Cultivar Name": "nelly kelly",
         "Female Parent": "selection of edulis",
-        "Male Parent": "syn.: 'Australian Purple'",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5035,8 +5105,15 @@
     {
         "Cultivar Name": "niagara",
         "Female Parent": "selection of trifasciata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "peter bak",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "nicole",
+        "Female Parent": "alata",
+        "Male Parent": "sprucei",
+        "Breeder": "francois thuys",
         "Year": null
     },
     {
@@ -5078,13 +5155,13 @@
         "Cultivar Name": "nocturn",
         "Female Parent": "'Amethyst'",
         "Male Parent": "amethystina",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1990"
     },
     {
         "Cultivar Name": "noels special",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5105,7 +5182,7 @@
     {
         "Cultivar Name": "norfolk",
         "Female Parent": "selection of edulis (white)",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5133,7 +5210,7 @@
     {
         "Cultivar Name": "oaxaca",
         "Female Parent": "selection of helleri",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5182,7 +5259,7 @@
     {
         "Cultivar Name": "olivie",
         "Female Parent": "caerulea 'Constance Eliott'",
-        "Male Parent": "(caerulea x 'Amethyst')",
+        "Male Parent": "(caerulea × 'Amethyst')",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
     },
@@ -5195,7 +5272,7 @@
     },
     {
         "Cultivar Name": "opalescence",
-        "Female Parent": "('Kew Gardens' x caerulea 'Constance Eliott')",
+        "Female Parent": "('Kew Gardens' × caerulea 'Constance Eliott')",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "david costen",
         "Year": "2008"
@@ -5217,7 +5294,7 @@
     {
         "Cultivar Name": "ouropretano",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5266,21 +5343,21 @@
     {
         "Cultivar Name": "panama",
         "Female Parent": "selection of quadrangularis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "panama gold",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "panama red",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5308,7 +5385,7 @@
     {
         "Cultivar Name": "paraguay",
         "Female Parent": "selections of various species",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5392,7 +5469,7 @@
     {
         "Cultivar Name": "perfecta",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5413,7 +5490,7 @@
     {
         "Cultivar Name": "peroba",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5434,15 +5511,15 @@
     {
         "Cultivar Name": "petra",
         "Female Parent": "incarnata",
-        "Male Parent": "(violacea x caerulea)",
+        "Male Parent": "(×violacea × caerulea)",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
     },
     {
         "Cultivar Name": "pfordtii",
-        "Female Parent": "invalid",
-        "Male Parent": "alata",
-        "Breeder": "caerulea",
+        "Female Parent": "alata",
+        "Male Parent": "caerulea",
+        "Breeder": "?",
         "Year": "1889"
     },
     {
@@ -5455,21 +5532,21 @@
     {
         "Cultivar Name": "pico de itapeva",
         "Female Parent": "selection of P. amethystina",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "pico do frade",
         "Female Parent": "selection of P. amethystina / P. miersii",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "pierre pomie",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5482,21 +5559,21 @@
     },
     {
         "Cultivar Name": "pina",
-        "Female Parent": "('Temptation' x 'Temptation')",
-        "Male Parent": "('Temptation' x 'Inspiration')",
+        "Female Parent": "('Temptation' × 'Temptation')",
+        "Male Parent": "('Temptation' × 'Inspiration')",
         "Breeder": "stefania mattiuzzo",
         "Year": "2017"
     },
     {
         "Cultivar Name": "pinanga",
         "Female Parent": "selection or variety of mixta",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "pinkarella",
-        "Female Parent": "(arida x sublanceolata)",
+        "Female Parent": "(arida × sublanceolata)",
         "Male Parent": "sublanceolata",
         "Breeder": "ethan nielsen",
         "Year": null
@@ -5524,7 +5601,7 @@
     },
     {
         "Cultivar Name": "pink jessie",
-        "Female Parent": "(sanguinolenta x capsularis)",
+        "Female Parent": "(sanguinolenta × capsularis)",
         "Male Parent": "conzattiana",
         "Breeder": "martin wills",
         "Year": "2004"
@@ -5567,7 +5644,7 @@
     {
         "Cultivar Name": "pink panther",
         "Female Parent": "selection of tripartita var. mollissima",
-        "Male Parent": "'Dani'el southard",
+        "Male Parent": null,
         "Breeder": "2004",
         "Year": null
     },
@@ -5589,12 +5666,12 @@
         "Cultivar Name": "pink promenade",
         "Female Parent": "trisecta",
         "Male Parent": "mixta",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1990"
     },
     {
         "Cultivar Name": "pink seduction",
-        "Female Parent": "('Asterix' x subpeltata)",
+        "Female Parent": "('Asterix' × subpeltata)",
         "Male Parent": "gritensis",
         "Breeder": "henk wouters",
         "Year": null
@@ -5608,7 +5685,7 @@
     },
     {
         "Cultivar Name": "pinky",
-        "Female Parent": "exoniensis",
+        "Female Parent": "×exoniensis",
         "Male Parent": "mixta",
         "Breeder": "henk wouters",
         "Year": "2007"
@@ -5616,7 +5693,7 @@
     {
         "Cultivar Name": "pintado",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5714,7 +5791,7 @@
     {
         "Cultivar Name": "possum purple",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5728,7 +5805,7 @@
     {
         "Cultivar Name": "pratt hybrid",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5743,7 +5820,7 @@
         "Cultivar Name": "pretty ballerina",
         "Female Parent": "phoenicea",
         "Male Parent": "actinia",
-        "Breeder": "rick mccain",
+        "Breeder": "rick McCain",
         "Year": "1989"
     },
     {
@@ -5783,7 +5860,7 @@
     },
     {
         "Cultivar Name": "pruney",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea",
         "Breeder": "shawn mattison",
         "Year": null
@@ -5791,7 +5868,7 @@
     {
         "Cultivar Name": "puerto rico",
         "Female Parent": "selection of rubra",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5810,6 +5887,13 @@
         "Year": "1996"
     },
     {
+        "Cultivar Name": "pura vida 7",
+        "Female Parent": "'Amethyst'",
+        "Male Parent": "princeps",
+        "Breeder": "silvan kamstra",
+        "Year": null
+    },
+    {
         "Cultivar Name": "purple companion",
         "Female Parent": "'Morning Star'",
         "Male Parent": "amethystina 'São Sebastião'",
@@ -5826,14 +5910,14 @@
     {
         "Cultivar Name": "purple gem",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "purple giant",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -5897,7 +5981,7 @@
         "Cultivar Name": "queen guinevere",
         "Female Parent": "semiciliosa",
         "Male Parent": "menispermifolia",
-        "Breeder": "rob mcphail",
+        "Breeder": "rob McPhail",
         "Year": "2022"
     },
     {
@@ -5909,7 +5993,7 @@
     },
     {
         "Cultivar Name": "r2-5",
-        "Female Parent": "(('Incense' x 'Byron Beauty') x incarnata 'Alba')",
+        "Female Parent": "(('Incense' × 'Byron Beauty') × incarnata 'Alba')",
         "Male Parent": "incarnata",
         "Breeder": "hal love",
         "Year": null
@@ -5929,7 +6013,7 @@
         "Year": "2014"
     },
     {
-        "Cultivar Name": "ranke fuer anke",
+        "Cultivar Name": "ranke für anke",
         "Female Parent": "amethystina 'Minas Gerais'",
         "Male Parent": "tarapotina",
         "Breeder": "ernst natt",
@@ -5938,7 +6022,7 @@
     {
         "Cultivar Name": "raphaël d-j",
         "Female Parent": "'Pura Vida 1'",
-        "Male Parent": "lilac sunset",
+        "Male Parent": "'Lilac Sunset'",
         "Breeder": "sebastien sabureau",
         "Year": "2014"
     },
@@ -5958,7 +6042,7 @@
     },
     {
         "Cultivar Name": "rattana",
-        "Female Parent": "edulis red 'Panama'",
+        "Female Parent": "edulis 'Panama Red'",
         "Male Parent": "edulis f. flavicarpa",
         "Breeder": "yvan vilain",
         "Year": "2014"
@@ -5974,7 +6058,7 @@
         "Cultivar Name": "red bird",
         "Female Parent": "'Coral Glow'",
         "Male Parent": "manicata",
-        "Breeder": "patrick worley / rick mccain",
+        "Breeder": "patrick worley / rick McCain",
         "Year": null
     },
     {
@@ -5986,7 +6070,7 @@
     },
     {
         "Cultivar Name": "red cloud",
-        "Female Parent": "('Amethyst' x princeps)",
+        "Female Parent": "('Amethyst' × princeps)",
         "Male Parent": "gritensis",
         "Breeder": "roland fischer",
         "Year": null
@@ -6015,7 +6099,7 @@
     {
         "Cultivar Name": "red giant",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -6044,19 +6128,19 @@
         "Cultivar Name": "red rover",
         "Female Parent": "'Brazilian Gold'",
         "Male Parent": "'Kahuna'",
-        "Breeder": "patrick worley / rick mccain",
+        "Breeder": "patrick worley / rick McCain",
         "Year": null
     },
     {
         "Cultivar Name": "redondo",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "regina",
-        "Female Parent": "('Amethyst Beauty' x caerulea 'Constance Eliott')",
+        "Female Parent": "('Amethyst Beauty' × caerulea 'Constance Eliott')",
         "Male Parent": "oerstedii",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
@@ -6064,7 +6148,7 @@
     {
         "Cultivar Name": "regnellii",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "masters",
         "Year": "1872"
     },
@@ -6081,6 +6165,20 @@
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "sally pert",
         "Year": "2007"
+    },
+    {
+        "Cultivar Name": "rio das ostras",
+        "Female Parent": "selection of P. mucronata",
+        "Male Parent": null,
+        "Breeder": "?",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "riograndina / rio grandina",
+        "Female Parent": "selection of P. amethystina",
+        "Male Parent": null,
+        "Breeder": "?",
+        "Year": null
     },
     {
         "Cultivar Name": "rita",
@@ -6107,7 +6205,7 @@
         "Cultivar Name": "rochelle",
         "Female Parent": "platyloba",
         "Male Parent": "incarnata",
-        "Breeder": "patrick worley / rick mccain",
+        "Breeder": "patrick worley / rick McCain",
         "Year": null
     },
     {
@@ -6121,7 +6219,7 @@
         "Cultivar Name": "roobas",
         "Female Parent": "miersii",
         "Male Parent": "loefgrenii 'Corupa'",
-        "Breeder": "robert mcphail",
+        "Breeder": "robert McPhail",
         "Year": "2014"
     },
     {
@@ -6204,16 +6302,16 @@
     {
         "Cultivar Name": "round fruit",
         "Female Parent": "selection of rubra",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "rowena",
-        "Female Parent": "?",
+        "Female Parent": "incarnata 'Alba'",
         "Male Parent": "?",
-        "Breeder": "?",
-        "Year": null
+        "Breeder": "gerrit graat",
+        "Year": "2003"
     },
     {
         "Cultivar Name": "royale",
@@ -6232,7 +6330,7 @@
     {
         "Cultivar Name": "ruby glow",
         "Female Parent": "selection of phoenicea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "patrick worley",
         "Year": null
     },
@@ -6246,7 +6344,7 @@
     {
         "Cultivar Name": "runway",
         "Female Parent": "selection of helleri",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -6260,13 +6358,13 @@
     {
         "Cultivar Name": "santa tereza",
         "Female Parent": "selection of amethystina",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "sarah rachel",
-        "Female Parent": "(kermesina x (loefgrenii x caerulea))",
+        "Female Parent": "(kermesina × (loefgrenii × caerulea))",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "shawn mattison",
         "Year": "2014"
@@ -6282,7 +6380,7 @@
         "Cultivar Name": "saint julien",
         "Female Parent": "incarnata",
         "Male Parent": "caerulea",
-        "Breeder": "?",
+        "Breeder": "axel frank",
         "Year": null
     },
     {
@@ -6351,14 +6449,14 @@
     {
         "Cultivar Name": "são sebastião",
         "Female Parent": "selection of amethystina",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "sapelo",
         "Female Parent": "selection of lutea",
-        "Male Parent": "dan long",
+        "Male Parent": null,
         "Breeder": "2011",
         "Year": null
     },
@@ -6391,23 +6489,23 @@
         "Year": "2007"
     },
     {
-        "Cultivar Name": "sarka",
-        "Female Parent": "?",
-        "Male Parent": "?",
-        "Breeder": "?",
-        "Year": null
+        "Cultivar Name": "scharka",
+        "Female Parent": "×decaisneana",
+        "Male Parent": "aff. oerstedii",
+        "Breeder": "Leopold Ševčic",
+        "Year": "1993"
     },
     {
         "Cultivar Name": "scarlet",
         "Female Parent": "selection of manicata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "scarlet flame",
         "Female Parent": "selection of vitifolia",
-        "Male Parent": "0",
+        "Male Parent": null,
         "Breeder": "kartuz greenhouses",
         "Year": "1984"
     },
@@ -6421,7 +6519,7 @@
     {
         "Cultivar Name": "schöne von imantag",
         "Female Parent": "selection of tripartita var. mollissima",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -6442,7 +6540,7 @@
     {
         "Cultivar Name": "schroopeana",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -6484,7 +6582,7 @@
     {
         "Cultivar Name": "sevcík selection",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "john vanderplank",
         "Year": "1996"
     },
@@ -6498,7 +6596,7 @@
     {
         "Cultivar Name": "sharka",
         "Female Parent": "oerstedii",
-        "Male Parent": "decaisneana",
+        "Male Parent": "×decaisneana",
         "Breeder": "leopold Ševčík",
         "Year": "1993"
     },
@@ -6512,9 +6610,9 @@
     {
         "Cultivar Name": "shemsa",
         "Female Parent": "intraspecific hybrid of foetida",
-        "Male Parent": "?",
-        "Breeder": "?",
-        "Year": null
+        "Male Parent": "null",
+        "Breeder": "Kemal Theo Delic",
+        "Year": "2003"
     },
     {
         "Cultivar Name": "shirley",
@@ -6547,14 +6645,14 @@
     {
         "Cultivar Name": "silver sabre",
         "Female Parent": "selection of lutea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "silver sword",
         "Female Parent": "selection of lutea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -6587,9 +6685,9 @@
         "Year": null
     },
     {
-        "Cultivar Name": "sirus",
+        "Cultivar Name": "sirius",
         "Female Parent": "selection of amethystina",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "axel frank",
         "Year": null
     },
@@ -6602,10 +6700,10 @@
     },
     {
         "Cultivar Name": "sjana",
-        "Female Parent": "coccinea / miniata",
-        "Male Parent": "incarnata",
-        "Breeder": "?",
-        "Year": null
+        "Female Parent": "coccinea",
+        "Male Parent": "incarnata 'Alba'",
+        "Breeder": "henk wouters",
+        "Year": "2003"
     },
     {
         "Cultivar Name": "skinneri",
@@ -6623,10 +6721,10 @@
     },
     {
         "Cultivar Name": "smelly",
-        "Female Parent": "kewensis",
+        "Female Parent": "'Kew Gardens''",
         "Male Parent": "retipetala",
-        "Breeder": "?",
-        "Year": null
+        "Breeder": "bettina ulmer",
+        "Year": "2002"
     },
     {
         "Cultivar Name": "smithiana",
@@ -6651,7 +6749,7 @@
     },
     {
         "Cultivar Name": "snow white",
-        "Female Parent": "(caerulea x 'Amethyst')",
+        "Female Parent": "(caerulea × 'Amethyst')",
         "Male Parent": "'Sapphire'",
         "Breeder": "john thompson",
         "Year": "2003"
@@ -6679,7 +6777,7 @@
     },
     {
         "Cultivar Name": "solferino",
-        "Female Parent": "exoniensis",
+        "Female Parent": "×exoniensis",
         "Male Parent": "parritae",
         "Breeder": "carlos ibarra",
         "Year": null
@@ -6722,8 +6820,8 @@
     {
         "Cultivar Name": "spyder",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
-        "Breeder": "patrick worley / rick mccain",
+        "Male Parent": null,
+        "Breeder": "patrick worley / rick McCain",
         "Year": "1993"
     },
     {
@@ -6763,10 +6861,17 @@
     },
     {
         "Cultivar Name": "st. rule",
-        "Female Parent": "syn.: 'Saint Rule'",
-        "Male Parent": "?",
+        "Female Parent": "subpeltata",
+        "Male Parent": "buonapartera",
         "Breeder": "?",
         "Year": null
+    },
+    {
+        "Cultivar Name": "strasshof",
+        "Female Parent": "incarnata",
+        "Male Parent": "caerulea",
+        "Breeder": "emil kugler",
+        "Year": "1992"
     },
     {
         "Cultivar Name": "star of berlin",
@@ -6861,7 +6966,7 @@
     },
     {
         "Cultivar Name": "stella di cremona",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "maurizio vecchia",
         "Year": "1997"
@@ -6876,7 +6981,7 @@
     {
         "Cultivar Name": "stern von bethlehem",
         "Female Parent": "selection of coccinea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -6889,15 +6994,15 @@
     },
     {
         "Cultivar Name": "stockumer rot",
-        "Female Parent": "not registered",
-        "Male Parent": "princeps",
-        "Breeder": "decaisneana",
-        "Year": null
+        "Female Parent": "princeps",
+        "Male Parent": "×decaisneana",
+        "Breeder": "bettina ulmer",
+        "Year": "2002"
     },
     {
         "Cultivar Name": "stoutemeirss strain",
         "Female Parent": "selection of suberosa",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -6918,7 +7023,7 @@
     {
         "Cultivar Name": "strawberry fields",
         "Female Parent": "mucronata",
-        "Male Parent": "(princeps x princeps 'Buzios')",
+        "Male Parent": "(princeps × princeps 'Buzios')",
         "Breeder": " nick lambert",
         "Year": null
     },
@@ -6926,7 +7031,7 @@
         "Cultivar Name": "striker",
         "Female Parent": "phoenicea",
         "Male Parent": "princeps",
-        "Breeder": "patrick worley / rick mccain",
+        "Breeder": "patrick worley / rick McCain",
         "Year": "1996"
     },
     {
@@ -6939,7 +7044,7 @@
     {
         "Cultivar Name": "strybing",
         "Female Parent": "selection of mixta",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -6994,7 +7099,7 @@
     },
     {
         "Cultivar Name": "sundance",
-        "Female Parent": "(caerulea x 'Amethyst')",
+        "Female Parent": "(caerulea × 'Amethyst')",
         "Male Parent": "'Sapphire'",
         "Breeder": "john thompson",
         "Year": "2003"
@@ -7009,21 +7114,21 @@
     {
         "Cultivar Name": "superba",
         "Female Parent": "selection of alata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": "1852"
     },
     {
         "Cultivar Name": "supernova",
         "Female Parent": "selection of incarnata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "ethan nielsen",
         "Year": "2015"
     },
     {
         "Cultivar Name": "supreme",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -7071,7 +7176,7 @@
     },
     {
         "Cultivar Name": "sweet allure",
-        "Female Parent": "(mixta x manicata)",
+        "Female Parent": "(mixta × manicata)",
         "Male Parent": "tripartita var. molissima",
         "Breeder": "patrick worley",
         "Year": "1987"
@@ -7086,7 +7191,7 @@
     {
         "Cultivar Name": "sweepur",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -7122,7 +7227,7 @@
         "Cultivar Name": "tangerine cream",
         "Female Parent": "apetala",
         "Male Parent": "jorullensis",
-        "Breeder": "patrick worley / rick mccain",
+        "Breeder": "patrick worley / rick McCain",
         "Year": "1996"
     },
     {
@@ -7149,7 +7254,7 @@
     {
         "Cultivar Name": "tara dawn",
         "Female Parent": "selection of P. incarnata",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -7163,7 +7268,7 @@
     {
         "Cultivar Name": "telstar",
         "Female Parent": "caerulea",
-        "Male Parent": "(caerulea x princeps)",
+        "Male Parent": "(caerulea × princeps)",
         "Breeder": "?",
         "Year": null
     },
@@ -7177,7 +7282,7 @@
     {
         "Cultivar Name": "tequila sunrise",
         "Female Parent": "'Kew Gardens'",
-        "Male Parent": "violacea",
+        "Male Parent": "×violacea",
         "Breeder": "david costen",
         "Year": null
     },
@@ -7204,7 +7309,7 @@
     },
     {
         "Cultivar Name": "the spirit of the sea",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea",
         "Breeder": "fuchuan wu",
         "Year": "2021"
@@ -7246,7 +7351,7 @@
     },
     {
         "Cultivar Name": "timben",
-        "Female Parent": "(capsularis 'Vanilla Cream' x conzattiana)",
+        "Female Parent": "(capsularis 'Vanilla Cream' × conzattiana)",
         "Male Parent": "citrina",
         "Breeder": "julia k. böndel",
         "Year": "2009"
@@ -7259,9 +7364,16 @@
         "Year": "1993"
     },
     {
+        "Cultivar Name": "tineke",
+        "Female Parent": "'Purple Passion'",
+        "Male Parent": "caerulea 'Constance Eliott'",
+        "Breeder": "arjen lommen",
+        "Year": null
+    },
+    {
         "Cultivar Name": "tiny tears",
         "Female Parent": "selection of suberosa",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -7288,7 +7400,7 @@
     },
     {
         "Cultivar Name": "triple l",
-        "Female Parent": "(luzmarina x loefgrenii)",
+        "Female Parent": "(luzmarina × loefgrenii)",
         "Male Parent": "?",
         "Breeder": "shawn mattison",
         "Year": null
@@ -7303,14 +7415,14 @@
     {
         "Cultivar Name": "tucumanensis 'Alba'",
         "Female Parent": "selection of P. tucumanensis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "jana heym",
         "Year": null
     },
     {
         "Cultivar Name": "tuc-um-tuc",
         "Female Parent": "tucumanensis",
-        "Male Parent": "(umbilicata x tucumanensis)",
+        "Male Parent": "(umbilicata × tucumanensis)",
         "Breeder": "Hal Love / Josh Krupnick",
         "Year": null
     },
@@ -7344,14 +7456,14 @@
     },
     {
         "Cultivar Name": "twinkle star",
-        "Female Parent": "('Star Of Mikan' x caerulea)",
+        "Female Parent": "('Star Of Mikan' × caerulea)",
         "Male Parent": "caerulea",
         "Breeder": "van der steeg",
         "Year": null
     },
     {
         "Cultivar Name": "twin star",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "princeps",
         "Breeder": "henk wouters",
         "Year": "2004"
@@ -7387,16 +7499,16 @@
     {
         "Cultivar Name": "university",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
-        "Cultivar Name": "uraniae",
+        "Cultivar Name": "urania",
         "Female Parent": "incarnata",
         "Male Parent": "caerulea",
-        "Breeder": "?",
-        "Year": null
+        "Breeder": "A. Thi",
+        "Year": "1837"
     },
     {
         "Cultivar Name": "urchin",
@@ -7428,7 +7540,7 @@
     },
     {
         "Cultivar Name": "valerie bishop",
-        "Female Parent": "violacea 'Victoria'",
+        "Female Parent": "×violacea 'Victoria'",
         "Male Parent": "caerulea",
         "Breeder": "trevor bishop",
         "Year": "2005"
@@ -7443,14 +7555,14 @@
     {
         "Cultivar Name": "vanilla",
         "Female Parent": "selection of antioquiensis",
-        "Male Parent": "0",
+        "Male Parent": null,
         "Breeder": "silva tunkl",
         "Year": "1989"
     },
     {
         "Cultivar Name": "vanilla cream",
         "Female Parent": "selection of capsularis",
-        "Male Parent": "0",
+        "Male Parent": null,
         "Breeder": "patrick worley",
         "Year": "1984"
     },
@@ -7463,7 +7575,7 @@
     },
     {
         "Cultivar Name": "velvet beauty",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea",
         "Breeder": "angelika schwarzwald",
         "Year": null
@@ -7477,7 +7589,7 @@
     },
     {
         "Cultivar Name": "vera",
-        "Female Parent": "(caerulea x oerstedii)",
+        "Female Parent": "(caerulea × oerstedii)",
         "Male Parent": "caerulea",
         "Breeder": "leopold Ševčík",
         "Year": "1996"
@@ -7505,8 +7617,8 @@
     },
     {
         "Cultivar Name": "victoria",
-        "Female Parent": "selection of violacea",
-        "Male Parent": "?",
+        "Female Parent": "selection of ×violacea",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -7539,7 +7651,7 @@
         "Year": null
     },
     {
-        "Cultivar Name": "violacea",
+        "Cultivar Name": "×violacea",
         "Female Parent": "princeps / caerulea",
         "Male Parent": "caerulea / princeps",
         "Breeder": "?",
@@ -7548,13 +7660,13 @@
     {
         "Cultivar Name": "violet selection",
         "Female Parent": "selection of 'Amethyst'",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "bettina ulmer",
         "Year": null
     },
     {
         "Cultivar Name": "violet star",
-        "Female Parent": "violacea",
+        "Female Parent": "×violacea",
         "Male Parent": "caerulea 'Constance Eliott'",
         "Breeder": "monika gottschalk",
         "Year": "1991"
@@ -7625,7 +7737,7 @@
     {
         "Cultivar Name": "watermelon leaf",
         "Female Parent": "selection of cuspidifolia",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -7681,7 +7793,7 @@
     {
         "Cultivar Name": "wild brazil",
         "Female Parent": "selection of caerulea",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -7743,7 +7855,7 @@
     },
     {
         "Cultivar Name": "wolverine",
-        "Female Parent": "exoniensis",
+        "Female Parent": "×exoniensis",
         "Male Parent": "parritae",
         "Breeder": "?",
         "Year": null
@@ -7793,14 +7905,14 @@
     {
         "Cultivar Name": "yee selection ",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
     {
         "Cultivar Name": "yellow seedlings",
         "Female Parent": "selection of edulis",
-        "Male Parent": "?",
+        "Male Parent": null,
         "Breeder": "?",
         "Year": null
     },
@@ -7813,7 +7925,7 @@
     },
     {
         "Cultivar Name": "yuki",
-        "Female Parent": "violacea 'Victoria'",
+        "Female Parent": "×violacea 'Victoria'",
         "Male Parent": "mucronata",
         "Breeder": "masaki yamagata",
         "Year": "2009"
@@ -7862,7 +7974,7 @@
     },
     {
         "Cultivar Name": "zofie",
-        "Female Parent": "('Amethyst' x caerulea)",
+        "Female Parent": "('Amethyst' × caerulea)",
         "Male Parent": "gibertii",
         "Breeder": "leopold Ševčík",
         "Year": null
@@ -7946,7 +8058,7 @@
     },
     {
         "Cultivar Name": "8687107",
-        "Female Parent": "('Amethyst' x caerulea)",
+        "Female Parent": "('Amethyst' × caerulea)",
         "Male Parent": "caerulea",
         "Breeder": "john vanderplank",
         "Year": "1986"
