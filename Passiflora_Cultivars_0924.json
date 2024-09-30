@@ -717,15 +717,22 @@
         "Cultivar Name": "black beauty",
         "Female Parent": "selection of edulis",
         "Male Parent": null,
-        "Breeder": "1983",
-        "Year": null
+        "Breeder": "patrick worley",
+        "Year": "1983"
     },
     {
         "Cultivar Name": "black knight",
         "Female Parent": "selection of edulis",
         "Male Parent": null,
-        "Breeder": "1993",
-        "Year": null
+        "Breeder": "Guido Van Herck",
+        "Year": "1993"
+    },
+    {
+        "Cultivar Name": "black swan",
+        "Female Parent": "'Damsel's Delight'",
+        "Male Parent": "'Monique Kleemann",
+        "Breeder": "Aleksandra Joanna Janusz",
+        "Year": "2019"
     },
     {
         "Cultivar Name": "blanca / blanka",
@@ -785,10 +792,10 @@
     },
     {
         "Cultivar Name": "blue byte",
-        "Female Parent": "?",
-        "Male Parent": "?",
-        "Breeder": "?",
-        "Year": null
+        "Female Parent": "(edulis × incarnata)",
+        "Male Parent": "(incarnata × cincinnata)",
+        "Breeder": "roland fischer",
+        "Year": "2002"
     },
     {
         "Cultivar Name": "blue carnival",
@@ -848,9 +855,9 @@
     },
     {
         "Cultivar Name": "blue haze",
-        "Female Parent": "steve szost",
+        "Female Parent": "?",
         "Male Parent": "?",
-        "Breeder": "?",
+        "Breeder": "steve szost",
         "Year": null
     },
     {
@@ -879,7 +886,7 @@
         "Female Parent": "'Colet'",
         "Male Parent": "aff. crassifolia",
         "Breeder": "stefan lang",
-        "Year": "2004"
+        "Year": "2001"
     },
     {
         "Cultivar Name": "blue star",
