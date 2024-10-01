@@ -140,6 +140,13 @@
         "Year": null
     },
     {
+        "Cultivar Name": "albaroma 2",
+        "Female Parent": "eichleriana",
+        "Male Parent": "?",
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
         "Cultivar Name": "albarosa",
         "Female Parent": "princeps",
         "Male Parent": "tucumanensis",
@@ -546,6 +553,20 @@
         "Year": "1999"
     },
     {
+        "Cultivar Name": "atlantis",
+        "Female Parent": "'Clear Sky'",
+        "Male Parent": "'Winterland'",
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "atlas",
+        "Female Parent": "'Monika Fischer'",
+        "Male Parent": "'Winterland'",
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
         "Cultivar Name": "atropos",
         "Female Parent": "'Amethyst'",
         "Male Parent": "amethystina 'Minas Gerais'",
@@ -600,6 +621,13 @@
         "Male Parent": "caerulea",
         "Breeder": "henk wouters",
         "Year": "2009"
+    },
+    {
+        "Cultivar Name": "azurita",
+        "Female Parent": "amethystina 'Minas Gerais'",
+        "Male Parent": "subpeltata",
+        "Breeder": "ernst natt",
+        "Year": null
     },
     {
         "Cultivar Name": "bahama mama",
@@ -812,6 +840,13 @@
         "Year": null
     },
     {
+        "Cultivar Name": "blauduft",
+        "Female Parent": "'Azurita-2'",
+        "Male Parent": "caerulea",
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
         "Cultivar Name": "blaumilch",
         "Female Parent": "garckei",
         "Male Parent": "caerulea 'Constance Eliott'",
@@ -943,6 +978,13 @@
         "Male Parent": "'Temptation'",
         "Breeder": "raoul vranken",
         "Year": "2015"
+    },
+    {
+        "Cultivar Name": "blue magic",
+        "Female Parent": "'Byron Beauty'",
+        "Male Parent": "'Inspiration'",
+        "Breeder": "ladislav cavis",
+        "Year": null
     },
     {
         "Cultivar Name": "blue moon",
@@ -1185,9 +1227,9 @@
     {
         "Cultivar Name": "bärbel heidepriem",
         "Female Parent": "'Carla Viola'",
-        "Male Parent": "amethystina 'Minas Gerais'",
+        "Male Parent": "kermesina",
         "Breeder": "ernst natt",
-        "Year": "2014"
+        "Year": null
     },
     {
         "Cultivar Name": "cacita",
@@ -1446,6 +1488,13 @@
         "Female Parent": "gritensis",
         "Male Parent": "?",
         "Breeder": "roland fischer",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "chico mendes",
+        "Female Parent": "(kermesina × miersii)",
+        "Male Parent": "(kermesina × miersii)",
+        "Breeder": "ernst natt",
         "Year": null
     },
     {
@@ -1995,6 +2044,13 @@
         "Year": "1988"
     },
     {
+        "Cultivar Name": "delicia",
+        "Female Parent": "'Carla Viola'",
+        "Male Parent": "sprucei",
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
         "Cultivar Name": "denisa",
         "Female Parent": "incarnata",
         "Male Parent": "(tucumanensis × princeps)",
@@ -2205,6 +2261,13 @@
         "Year": null
     },
     {
+        "Cultivar Name": "electra",
+        "Female Parent": "incarnata",
+        "Male Parent": "kermesina",
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
         "Cultivar Name": "elegante",
         "Female Parent": "kermesina",
         "Male Parent": "mucronata",
@@ -2289,6 +2352,13 @@
         "Year": null
     },
     {
+        "Cultivar Name": "endura",
+        "Female Parent": "incarnata",
+        "Male Parent": "tucumanensis",
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
         "Cultivar Name": "energie",
         "Female Parent": "?",
         "Male Parent": "?",
@@ -2301,6 +2371,13 @@
         "Male Parent": "alata",
         "Breeder": "john vanderplank",
         "Year": "1996"
+    },
+    {
+        "Cultivar Name": "enjoy",
+        "Female Parent": "'Ranke für Anke'",
+        "Male Parent": "caerulea",
+        "Breeder": "ernst natt",
+        "Year": null
     },
     {
         "Cultivar Name": "eric peter",
@@ -2322,6 +2399,13 @@
         "Male Parent": "'Blue Bouquet'",
         "Breeder": "kyle rahrig",
         "Year": "2014"
+    },
+    {
+        "Cultivar Name": "ernestito",
+        "Female Parent": "reitzii",
+        "Male Parent": "gibertii",
+        "Breeder": "ernst natt",
+        "Year": null
     },
     {
         "Cultivar Name": "escobar",
@@ -2370,6 +2454,13 @@
         "Female Parent": "syn.: imperatrice eugenia",
         "Male Parent": "?",
         "Breeder": "?",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "europa",
+        "Female Parent": "'Ranke für Anke'",
+        "Male Parent": "amethystina 'Pico de Itapeva'",
+        "Breeder": "ernst natt",
         "Year": null
     },
     {
@@ -2737,6 +2828,13 @@
         "Year": "1993"
     },
     {
+        "Cultivar Name": "freiburg 1",
+        "Female Parent": "selection of P. amethystina",
+        "Male Parent": null,
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
         "Cultivar Name": "frits",
         "Female Parent": "princeps",
         "Male Parent": "caerulea",
@@ -3024,6 +3122,13 @@
         "Year": null
     },
     {
+        "Cultivar Name": "hanging fox",
+        "Female Parent": "reitzii",
+        "Male Parent": "tarapotina",
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
         "Cultivar Name": "hardy red",
         "Female Parent": "incarnata",
         "Male Parent": "princeps",
@@ -3182,6 +3287,13 @@
         "Female Parent": "invalid",
         "Male Parent": "karl koch",
         "Breeder": "1871",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "hummelglück",
+        "Female Parent": "(tucumanensis × edmundoi)",
+        "Male Parent": "garckei",
+        "Breeder": "ernst natt",
         "Year": null
     },
     {
@@ -3584,6 +3696,13 @@
         "Year": null
     },
     {
+        "Cultivar Name": "judith mary",
+        "Female Parent": "(cincinnata × umbilicata)",
+        "Male Parent": "incarnata 'Alba'",
+        "Breeder": "?",
+        "Year": null
+    },
+    {
         "Cultivar Name": "jules dierckx",
         "Female Parent": "incarnata",
         "Male Parent": "'White Star'",
@@ -3763,6 +3882,13 @@
         "Female Parent": "selection of edulis",
         "Male Parent": null,
         "Breeder": "?",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "konsul",
+        "Female Parent": "'Enjoy'",
+        "Male Parent": "loefgrenii 'Corupa'",
+        "Breeder": "ernst natt",
         "Year": null
     },
     {
@@ -4844,6 +4970,13 @@
         "Year": null
     },
     {
+        "Cultivar Name": "metalica",
+        "Female Parent": "'Ranke für Anke'",
+        "Male Parent": "(×violacea × caerulea)",
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
         "Cultivar Name": "michael",
         "Female Parent": "vitifolia",
         "Male Parent": "caerulea",
@@ -4877,6 +5010,13 @@
         "Male Parent": "tripartita var. molissima",
         "Breeder": "rick McCain",
         "Year": "1984"
+    },
+    {
+        "Cultivar Name": "mieryam",
+        "Female Parent": "miersii",
+        "Male Parent": "amethystina 'Minas Gerais'",
+        "Breeder": "ernst natt",
+        "Year": null
     },
     {
         "Cultivar Name": "militaris",
@@ -5075,6 +5215,13 @@
         "Year": "1994"
     },
     {
+        "Cultivar Name": "nacara",
+        "Female Parent": "'Monika Fischer'",
+        "Male Parent": "'Winterland'",
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
         "Cultivar Name": "nameless",
         "Female Parent": "tarapotina",
         "Male Parent": "mucronata",
@@ -5215,8 +5362,15 @@
         "Year": null
     },
     {
+        "Cultivar Name": "nightingale",
+        "Female Parent": "galbana",
+        "Male Parent": "caerulea",
+        "Breeder": "ernst natt",
+        "Year": null
+    },
+    {
         "Cultivar Name": "nightshift",
-        "Female Parent": "g'Alba'na",
+        "Female Parent": "galbana",
         "Male Parent": "princeps",
         "Breeder": "henk wouters",
         "Year": "2009"
@@ -5456,7 +5610,7 @@
         "Cultivar Name": "pandora",
         "Female Parent": " syn. Stefano Capitanio",
         "Male Parent": "?",
-        "Breeder": "?",
+        "Breeder": "stefania mattiuzzo",
         "Year": null
     },
     {
@@ -5485,6 +5639,13 @@
         "Female Parent": "platyloba",
         "Male Parent": "maliformis",
         "Breeder": "jim nevers",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "passion first",
+        "Female Parent": "?",
+        "Male Parent": "eichleriana",
+        "Breeder": "ernst natt",
         "Year": null
     },
     {
@@ -5521,6 +5682,13 @@
         "Male Parent": "caerulea",
         "Breeder": "les king",
         "Year": "2004"
+    },
+    {
+        "Cultivar Name": "paulo paulino",
+        "Female Parent": "(kermesina × tarapotina)",
+        "Male Parent": "edmundoi (red)",
+        "Breeder": "ernst natt",
+        "Year": null
     },
     {
         "Cultivar Name": "pavlina",
@@ -7872,6 +8040,13 @@
         "Female Parent": "?",
         "Male Parent": "?",
         "Breeder": "eric wortman / chriystal stone",
+        "Year": null
+    },
+    {
+        "Cultivar Name": "wiehremaid",
+        "Female Parent": "oerstedii var. choconiana",
+        "Male Parent": "gardneri",
+        "Breeder": "ernst natt",
         "Year": null
     },
     {
