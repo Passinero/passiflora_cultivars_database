@@ -140,6 +140,13 @@
         "Year": null
     },
     {
+        "Cultivar Name": "albany",
+        "Female Parent": "'Oaklandia'",
+        "Male Parent": "'Susan Brigham'",
+        "Breeder": "lisa giampaoli",
+        "Year": "2024"
+    },
+    {
         "Cultivar Name": "albaroma 2",
         "Female Parent": "eichleriana",
         "Male Parent": "?",
@@ -225,7 +232,7 @@
     },
     {
         "Cultivar Name": "alisus betica",
-        "Female Parent": "selection of caerulea",
+        "Female Parent": "selection of P. caerulea",
         "Male Parent": null,
         "Breeder": "?",
         "Year": null
@@ -2255,9 +2262,9 @@
     },
     {
         "Cultivar Name": "el tambo",
-        "Female Parent": "klaas kingma",
+        "Female Parent": "?",
         "Male Parent": "?",
-        "Breeder": "?",
+        "Breeder": "klaas kingma",
         "Year": null
     },
     {
@@ -2320,8 +2327,8 @@
         "Cultivar Name": "emil kugler",
         "Female Parent": "selection of caerulea",
         "Male Parent": null,
-        "Breeder": "2000",
-        "Year": null
+        "Breeder": "roland fischer",
+        "Year": "2000"
     },
     {
         "Cultivar Name": "emily",
@@ -4012,7 +4019,7 @@
     },
     {
         "Cultivar Name": "lacey",
-        "Female Parent": "selection of edulis",
+        "Female Parent": "selection of P. edulis",
         "Male Parent": null,
         "Breeder": "?",
         "Year": null
@@ -4191,6 +4198,13 @@
         "Male Parent": "misera",
         "Breeder": "andreas beck",
         "Year": "2021"
+    },
+    {
+        "Cultivar Name": "léon vilain",
+        "Female Parent": "cincinnata",
+        "Male Parent": "'Lady Margaret'",
+        "Breeder": "yvan vilain",
+        "Year": "2024"
     },
     {
         "Cultivar Name": "lia vallini",
